@@ -1,0 +1,9 @@
+questionId(UUID),Question,ResponseType
+f1d04fbd-c872-4bf3-b9eb-362ca4846c03,correct_correct_percentage,string
+e0ec4c44-5379-489c-8178-84899ed387f4,correct_incorrect_percentage,string
+17207115-1180-4d39-886e-b7a67a933ccb,same_error_percentage,string
+4f4da452-bf78-4c18-964f-d9aeb1a5b80d,different_error_percentage,string
+2199d49d-249b-4e6f-b52c-e3c733315493,correct_correct_words,array
+3fe5f541-f789-4a10-ba9c-c3750eb7c446,correct_incorrect_words,array
+1447ca3c-e603-4466-9490-4f5b7d474fef,same_error_words,array
+3fac7699-cc17-4331-8f37-00c6c42a406d,different_error_words,array
