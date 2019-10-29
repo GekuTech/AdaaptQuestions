@@ -47,12 +47,12 @@ c9471041-fd2b-4b72-860e-92449e2ec353,N,/an/model,string
 bae4c857-e4d7-48ea-8555-f95b1ed06502,N,/an/cue,string
 5a54ab83-01cb-40b4-b8b9-57cf017a4309,N,/ana/model,string
 e729014b-de5f-4bcd-a38f-461a94376d1d,N,/ana/cue,string
-fb496396-b1bf-47e4-8023-e8722f0b29ba,?,/?a/model,string
-1ebb7e5e-08c4-416f-9c67-a0bc9d8363a6,?,/?a/cue,string
-5ae8955d-638f-444b-84cf-b3f29ca341f4,?,/a?/model,string
-d43661d5-5bcf-45c9-a86c-898de06e101e,?,/a?/cue,string
-28e0ca1a-1d06-4218-9330-804a15972019,?,/a?a/model,string
-a13221de-525d-4ca8-a7d4-2aaac235353f,?,/a?a/cue,string
+fb496396-b1bf-47e4-8023-e8722f0b29ba,ŋ,/ŋa/model,string
+1ebb7e5e-08c4-416f-9c67-a0bc9d8363a6,ŋ,/ŋa/cue,string
+5ae8955d-638f-444b-84cf-b3f29ca341f4,ŋ,/aŋ/model,string
+d43661d5-5bcf-45c9-a86c-898de06e101e,ŋ,/aŋ/cue,string
+28e0ca1a-1d06-4218-9330-804a15972019,ŋ,/aŋa/model,string
+a13221de-525d-4ca8-a7d4-2aaac235353f,ŋ,/aŋa/cue,string
 102088ed-7e14-4bd0-ac53-e75d3b0d5777,F,/fa/model,string
 f591e053-4538-420f-a10e-cedb04278c74,F,/fa/cue,string
 82a1d6a3-b390-48fa-9222-a31970a8f87c,F,/af/model,string
@@ -65,18 +65,18 @@ b78c8888-7a87-4b7d-ae6e-1ffac5edc273,F,/afa/model,string
 91b4d1b3-2fdb-45ba-87a1-6fe19bb2d94a,V,/av/cue,string
 3b052538-4e04-4ac0-819a-b5d29250393f,V,/ava/model,string
 d64101b1-af83-44bb-9d80-d710b8462d7f,V,/ava/cue,string
-83b965c6-5e54-4527-ac5d-2feba3e68e6d,?,/?a/model,string
-ac79441d-ec86-43fa-ba29-99ee48a81248,?,/?a/cue,string
-c9cb4bc3-3985-4aa5-9b03-50ff37942bd0,?,/a?/model,string
-cc35bb15-629f-40cd-9df1-86d7cc20b44d,?,/a?/cue,string
-633e5081-a7ff-42fa-a8fc-d4dba64c4208,?,/a?a/model,string
-42bf640a-bb47-4517-9bc5-8429845b357c,?,/a?a/cue,string
-29e9b7cc-1faa-44a5-b51e-97ddc3a634be,�,/�a/model,string
-ce053bde-ab9d-441f-8c3a-1d6bb9f3f0e4,�,/�a/cue,string
-2b56dd68-62a3-402a-9281-e90de7c8af3d,�,/a�/model,string
-806ab30f-cc5f-4188-afc4-9e9f96ac9fa0,�,/a�/cue,string
-64a20576-0e13-48e7-8024-f9015bfe841c,�,/a�a/model,string
-f98a22dd-ba92-45f3-9a53-c45d433a14dd,�,/a�a/cue,string
+83b965c6-5e54-4527-ac5d-2feba3e68e6d,θ,/θa/model,string
+ac79441d-ec86-43fa-ba29-99ee48a81248,θ,/θa/cue,string
+c9cb4bc3-3985-4aa5-9b03-50ff37942bd0,θ,/aθ/model,string
+cc35bb15-629f-40cd-9df1-86d7cc20b44d,θ,/aθ/cue,string
+633e5081-a7ff-42fa-a8fc-d4dba64c4208,θ,/aθa/model,string
+42bf640a-bb47-4517-9bc5-8429845b357c,θ,/aθa/cue,string
+29e9b7cc-1faa-44a5-b51e-97ddc3a634be,ð,/ða/model,string
+ce053bde-ab9d-441f-8c3a-1d6bb9f3f0e4,ð,/ða/cue,string
+2b56dd68-62a3-402a-9281-e90de7c8af3d,ð,/að/model,string
+806ab30f-cc5f-4188-afc4-9e9f96ac9fa0,ð,/að/cue,string
+64a20576-0e13-48e7-8024-f9015bfe841c,ð,/aða/model,string
+f98a22dd-ba92-45f3-9a53-c45d433a14dd,ð,/aða/cue,string
 6b0dc5fd-0af4-43f7-8dd3-018456c1ff09,S,/sa/model,string
 a9e1949e-27eb-402d-9142-0ee3821c69bc,S,/sa/cue,string
 26a32c7b-98c7-4983-bde2-f1fbd2c2bee5,S,/as/model,string
@@ -89,36 +89,36 @@ bfb75a66-f632-44d1-8838-2bc7b3c8b0c5,Z,/az/model,string
 cfdd9304-5a07-4262-9169-0d3322f33895,Z,/az/cue,string
 cf9d0f94-423c-4c85-bc2d-86ebe422d0cd,Z,/aza/model,string
 ca705d6b-648e-4ee1-a164-b6c8c8208416,Z,/aza/cue,string
-70afb3b1-ec0d-42e2-8cec-e7b394a10af1,?,/?a/model,string
-83d12399-00f4-405e-bf0d-f03ec0b698a2,?,/?a/cue,string
-4ffaf09c-a8c1-487c-972f-73536b41fc8b,?,/a?/model,string
-893d5892-6323-4b21-ad3d-c28fd7f928d7,?,/a?/cue,string
-fe67065f-e9d2-49a2-80fc-f7ffd53ce524,?,/a?a/model,string
-b5b2ce4f-28f5-4259-8fa7-f2f0463dc3e3,?,/a?a/cue,string
-6551b61b-acbc-48b9-b4fb-f303f9941a53,?,/?a/model,string
-6fe09435-bae6-47d7-8b5d-3d3db2248ce5,?,/?a/cue,string
-5b30157e-a580-4279-91ba-66d52e67c7ea,?,/a?/model,string
-cbc17912-2802-4cf7-abd9-c1530b44f06b,?,/a?/cue,string
-c1f9269f-bd02-4b69-8cde-6e2cae9bc7c6,?,/a?a/model,string
-93a6cd42-ebf4-41be-ad1f-14c326ebaa50,?,/a?a/cue,string
-a02142a7-6be6-4274-b283-693355041c39,?,/?a/model,string
-a30e9b9d-c708-4505-a382-c8d5e64ceacc,?,/?a/cue,string
-f35bd124-5f58-483e-82ea-2602f2e2acf7,?,/a?/model,string
-1e789f0f-8f74-48ec-a9d9-540a929ff6df,?,/a?/cue,string
-18287c40-e179-468e-9f2c-425023878d28,?,/a?a/model,string
-edcaba51-ad40-4bbe-9b87-1702d8c2683e,?,/a?a/cue,string
+70afb3b1-ec0d-42e2-8cec-e7b394a10af1,ʃ,/ʃa/model,string
+83d12399-00f4-405e-bf0d-f03ec0b698a2,ʃ,/ʃa/cue,string
+4ffaf09c-a8c1-487c-972f-73536b41fc8b,ʃ,/aʃ/model,string
+893d5892-6323-4b21-ad3d-c28fd7f928d7,ʃ,/aʃ/cue,string
+fe67065f-e9d2-49a2-80fc-f7ffd53ce524,ʃ,/aʃa/model,string
+b5b2ce4f-28f5-4259-8fa7-f2f0463dc3e3,ʃ,/aʃa/cue,string
+6551b61b-acbc-48b9-b4fb-f303f9941a53,ʧ,/ʧa/model,string
+6fe09435-bae6-47d7-8b5d-3d3db2248ce5,ʧ,/ʧa/cue,string
+5b30157e-a580-4279-91ba-66d52e67c7ea,ʧ,/aʧ/model,string
+cbc17912-2802-4cf7-abd9-c1530b44f06b,ʧ,/aʧ/cue,string
+c1f9269f-bd02-4b69-8cde-6e2cae9bc7c6,ʧ,/aʧa/model,string
+93a6cd42-ebf4-41be-ad1f-14c326ebaa50,ʧ,/aʧa/cue,string
+a02142a7-6be6-4274-b283-693355041c39,ʤ,/ʤa/model,string
+a30e9b9d-c708-4505-a382-c8d5e64ceacc,ʤ,/ʤa/cue,string
+f35bd124-5f58-483e-82ea-2602f2e2acf7,ʤ,/aʤ/model,string
+1e789f0f-8f74-48ec-a9d9-540a929ff6df,ʤ,/aʤ/cue,string
+18287c40-e179-468e-9f2c-425023878d28,ʤ,/aʤa/model,string
+edcaba51-ad40-4bbe-9b87-1702d8c2683e,ʤ,/aʤa/cue,string
 68e17612-8032-43e6-b435-c5b04ed5718d,L,/la/model,string
 b87faeb9-aba0-4b83-9723-c05eed71e0cc,L,/la/cue,string
 5035a95a-ea4a-4ff8-aa94-f18678471289,L,/al/model,string
 385cd88b-de32-4130-9fca-96521a103cd9,L,/al/cue,string
 42a5efd3-1a9d-41df-9279-5be4851afe25,L,/ala/model,string
 4919c0d3-d215-4746-b025-c347be3601fa,L,/ala/cue,string
-12046cb1-8bb0-4211-bb3d-46115d1b92b8,?,/?a/model,string
-45c00a30-c117-4489-816f-243bbcbb7c60,?,/?a/cue,string
-692d4cb6-428d-4fa5-95df-090d1f9e4b7d,?,/a?/model,string
-9876fb48-fd55-436c-8078-7f48dd4206ed,?,/a?/cue,string
-26c117ba-334b-40ae-9541-0c08dd4c5ac1,?,/a?a/model,string
-b5957a96-da3c-47dd-954c-b39b09fda027,?,/a?a/cue,string
+12046cb1-8bb0-4211-bb3d-46115d1b92b8,ɹ,/ɹa/model,string
+45c00a30-c117-4489-816f-243bbcbb7c60,ɹ,/ɹa/cue,string
+692d4cb6-428d-4fa5-95df-090d1f9e4b7d,ɹ,/aɹ/model,string
+9876fb48-fd55-436c-8078-7f48dd4206ed,ɹ,/aɹ/cue,string
+26c117ba-334b-40ae-9541-0c08dd4c5ac1,ɹ,/aɹa/model,string
+b5957a96-da3c-47dd-954c-b39b09fda027,ɹ,/aɹa/cue,string
 d90f1a52-55d3-40b8-a7be-dfcba7b66166,W,/wa/model,string
 bf3d746d-274c-4c1f-9c04-4377a59fb633,W,/wa/cue,string
 68dba2b6-3e27-429d-acc8-f86b91f14e68,W,/aw/model,string
@@ -137,9 +137,9 @@ b7576f0d-017e-4680-9ce3-65daaf3eff8c,H,/ha/cue,string
 abc91f3f-c8ac-4169-8868-73fb6b73e6fe,H,/ah/cue,string
 eedc5c47-a7a2-4f35-9b35-139508b1ae79,H,/aha/model,string
 680c9fb5-c389-4ae8-b332-5b8e7104b811,H,/aha/cue,string
-2686fe94-8ff3-417d-bb36-65bb0ec38438,?,/?a/model,string
-a6229e0b-bef2-4497-83e9-7fc72b2339b8,?,/?a/cue,string
-694af3f6-80fe-4eb7-b974-985ac2e69e57,?,/a?/model,string
-44447188-1359-4301-810c-e0439f8b8745,?,/a?/cue,string
-f6fe0d58-74d7-4423-b3c8-db190b73cb67,?,/a?a/model,string
-f4a709a1-9ef9-4744-b61d-e175b5d35ec2,?,/a?a/cue,string
+2686fe94-8ff3-417d-bb36-65bb0ec38438,ʒ,/ʒa/model,string
+a6229e0b-bef2-4497-83e9-7fc72b2339b8,ʒ,/ʒa/cue,string
+694af3f6-80fe-4eb7-b974-985ac2e69e57,ʒ,/aʒ/model,string
+44447188-1359-4301-810c-e0439f8b8745,ʒ,/aʒ/cue,string
+f6fe0d58-74d7-4423-b3c8-db190b73cb67,ʒ,/aʒa/model,string
+f4a709a1-9ef9-4744-b61d-e175b5d35ec2,ʒ,/aʒa/cue,string
