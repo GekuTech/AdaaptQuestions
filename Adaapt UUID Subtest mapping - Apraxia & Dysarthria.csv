@@ -1,36 +1,36 @@
-questionId(UUID),Section,Question,ResponseType
-c43757b9-f781-452c-9909-a531acad8d85,Rainbow,N.A.,array
-4dee2f4f-4cf3-4feb-99f9-08830c04e29a,Monkey,N.A.,array
-e1b4b0c9-6e71-45dc-a66b-ae327f7ef255,Giraffe,N.A.,array
-005105eb-b03d-4c91-85d5-ef1b1e8af921,Dinosaur,N.A.,array
-24ab452a-e010-4191-80b5-18db03115432,Balloons,N.A.,array
-af22dfa0-1bad-4f7f-999e-5d1a0f77c000,Birthday Cake,N.A.,array
-b7ab16b0-65e3-40fb-b64f-bffc45c404aa,Chocolate,N.A.,array
-2b1aed84-690f-4d66-b4a1-042cbfac7137,Washing Machine,N.A.,array
-c6166569-6086-4e62-9039-c943f0b144c5,Computer,N.A.,array
-30e75a84-40dd-4a21-a5b0-4e7f691f8c02,Playground,N.A.,array
-e40c152d-5195-442d-afed-eb105ea67c78,Sunflower,N.A.,array
-e01d69a0-c777-476c-af1f-66f3d97073f2,Treasure,N.A.,array
-ac0947b9-c7a2-43c8-94bb-60fdb1def200,Ambulance,N.A.,array
-685538b5-d327-4141-bb16-f7bcbe3f6090,Hospital,N.A.,array
-2fc0eb22-aa2b-457f-b533-279ef1bddebd,Feather,N.A.,array
-5103d69f-361f-4f86-9b51-153b86f0d03a,Connected Speech,N.A.,array
-6d7d5ca4-8ee1-4611-95d7-a737b672e98d,Connected Speech,additionErrors,string
-48bbce0a-014b-4c38-a0b9-d1234e6f749c,Connected Speech,alteredRate,string
-0de7f5af-415c-45c3-854d-24bb42408786,Connected Speech,alteredResonance,string
-3e967987-0c1e-4f27-9acb-301606c5dbd1,Connected Speech,alteredRespiration,string
-ee0a7d7d-ae3e-4318-9fce-915c5dc8b287,Connected Speech,difficultyIntegrity,string
-51833d64-09f6-4ec9-b5ec-a0aac78e7def,Connected Speech,distortionErrors,string
-e8110f14-18c2-4534-aab5-258282e0822e,Connected Speech,groping,string
-758e76cf-fe5f-4da1-8208-28b8deb94e85,Connected Speech,inappropriateLoudness,string
-81522374-a34f-4d06-bb59-6e9bc45f72ea,Connected Speech,inappropriatePitch,string
-40f3061e-3745-493d-8ecd-dbbae81c3a74,Connected Speech,inappropriateVoiceQuality,string
-90f0b7cb-1f00-4124-ac48-9e8c835bed19,Connected Speech,intrusiveSchwa,string
-6f0b3078-dd36-4a8c-bf0d-77cfc81e8e27,Connected Speech,omissionErrors,string
-3a73c4e5-11bb-4764-a068-3b9ab2b53029,Connected Speech,repetitionOfSounds,string
-a0a1c96d-b6e4-4148-aa4d-c9cb1d92cf96,Connected Speech,repetitionOfSyllables,string
-b90e358e-4f40-435b-9a06-359e6e6db3f1,Connected Speech,stressErrors,string
-3233ebaa-f76e-49dd-9c39-668e498598ef,Connected Speech,substitutionErrors,string
-60af9a00-edb3-47dc-83fe-5a84602d01bf,Connected Speech,syllableSegregation,string
-0bd857cc-0ca9-470c-9a3b-ca283172557e,Connected Speech,transpositionErrors,string
-b34c14ef-89bc-4bc1-85f7-b9286214a55e,Connected Speech,voicingErrors,string
+questionId(UUID),Section,Question,ResponseType,SubTest,ExtractOrder
+c43757b9-f781-452c-9909-a531acad8d85,Rainbow,N.A.,array,Apraxia & Dysarthria,331
+4dee2f4f-4cf3-4feb-99f9-08830c04e29a,Monkey,N.A.,array,Apraxia & Dysarthria,332
+e1b4b0c9-6e71-45dc-a66b-ae327f7ef255,Giraffe,N.A.,array,Apraxia & Dysarthria,333
+005105eb-b03d-4c91-85d5-ef1b1e8af921,Dinosaur,N.A.,array,Apraxia & Dysarthria,334
+24ab452a-e010-4191-80b5-18db03115432,Balloons,N.A.,array,Apraxia & Dysarthria,335
+af22dfa0-1bad-4f7f-999e-5d1a0f77c000,Birthday Cake,N.A.,array,Apraxia & Dysarthria,336
+b7ab16b0-65e3-40fb-b64f-bffc45c404aa,Chocolate,N.A.,array,Apraxia & Dysarthria,337
+2b1aed84-690f-4d66-b4a1-042cbfac7137,Washing Machine,N.A.,array,Apraxia & Dysarthria,338
+c6166569-6086-4e62-9039-c943f0b144c5,Computer,N.A.,array,Apraxia & Dysarthria,339
+30e75a84-40dd-4a21-a5b0-4e7f691f8c02,Playground,N.A.,array,Apraxia & Dysarthria,340
+e40c152d-5195-442d-afed-eb105ea67c78,Sunflower,N.A.,array,Apraxia & Dysarthria,341
+e01d69a0-c777-476c-af1f-66f3d97073f2,Treasure,N.A.,array,Apraxia & Dysarthria,342
+ac0947b9-c7a2-43c8-94bb-60fdb1def200,Ambulance,N.A.,array,Apraxia & Dysarthria,343
+685538b5-d327-4141-bb16-f7bcbe3f6090,Hospital,N.A.,array,Apraxia & Dysarthria,344
+2fc0eb22-aa2b-457f-b533-279ef1bddebd,Feather,N.A.,array,Apraxia & Dysarthria,345
+5103d69f-361f-4f86-9b51-153b86f0d03a,Connected Speech,N.A.,array,Apraxia & Dysarthria,346
+6d7d5ca4-8ee1-4611-95d7-a737b672e98d,Connected Speech,additionErrors,string,Apraxia & Dysarthria,347
+48bbce0a-014b-4c38-a0b9-d1234e6f749c,Connected Speech,alteredRate,string,Apraxia & Dysarthria,348
+0de7f5af-415c-45c3-854d-24bb42408786,Connected Speech,alteredResonance,string,Apraxia & Dysarthria,349
+3e967987-0c1e-4f27-9acb-301606c5dbd1,Connected Speech,alteredRespiration,string,Apraxia & Dysarthria,350
+ee0a7d7d-ae3e-4318-9fce-915c5dc8b287,Connected Speech,difficultyIntegrity,string,Apraxia & Dysarthria,351
+51833d64-09f6-4ec9-b5ec-a0aac78e7def,Connected Speech,distortionErrors,string,Apraxia & Dysarthria,352
+e8110f14-18c2-4534-aab5-258282e0822e,Connected Speech,groping,string,Apraxia & Dysarthria,353
+758e76cf-fe5f-4da1-8208-28b8deb94e85,Connected Speech,inappropriateLoudness,string,Apraxia & Dysarthria,354
+81522374-a34f-4d06-bb59-6e9bc45f72ea,Connected Speech,inappropriatePitch,string,Apraxia & Dysarthria,355
+40f3061e-3745-493d-8ecd-dbbae81c3a74,Connected Speech,inappropriateVoiceQuality,string,Apraxia & Dysarthria,356
+90f0b7cb-1f00-4124-ac48-9e8c835bed19,Connected Speech,intrusiveSchwa,string,Apraxia & Dysarthria,357
+6f0b3078-dd36-4a8c-bf0d-77cfc81e8e27,Connected Speech,omissionErrors,string,Apraxia & Dysarthria,358
+3a73c4e5-11bb-4764-a068-3b9ab2b53029,Connected Speech,repetitionOfSounds,string,Apraxia & Dysarthria,359
+a0a1c96d-b6e4-4148-aa4d-c9cb1d92cf96,Connected Speech,repetitionOfSyllables,string,Apraxia & Dysarthria,360
+b90e358e-4f40-435b-9a06-359e6e6db3f1,Connected Speech,stressErrors,string,Apraxia & Dysarthria,361
+3233ebaa-f76e-49dd-9c39-668e498598ef,Connected Speech,substitutionErrors,string,Apraxia & Dysarthria,362
+60af9a00-edb3-47dc-83fe-5a84602d01bf,Connected Speech,syllableSegregation,string,Apraxia & Dysarthria,363
+0bd857cc-0ca9-470c-9a3b-ca283172557e,Connected Speech,transpositionErrors,string,Apraxia & Dysarthria,364
+b34c14ef-89bc-4bc1-85f7-b9286214a55e,Connected Speech,voicingErrors,string,Apraxia & Dysarthria,365

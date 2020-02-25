@@ -1,19 +1,19 @@
-questionId(UUID),Question,ResponseType
-f6c509a0-dd6a-4831-8a66-294d67b36e14,better_in_imitation_clouds,string
-fca3f1a9-9f80-41a1-9fa3-26b5840049f7,better_in_imitation_helicopter,string
-ce0a9260-0e90-44d9-9c9c-a08861101265,better_in_imitation_witch,string
-9eb7ac1b-f078-4c61-8dab-5bedef63c496,better_in_imitation_sheep,string
-225c72b8-f3a4-41ec-ba43-ad0ca573ba8d,better_in_imitation_lunchbox,string
-d8b8f6a9-34be-41cd-a392-1ab3f0de914a,better_in_imitation_octopus,string
-4af86f5a-eec2-47c7-bb5f-a6898d3c4eef,better_in_imitation_vacuum_cleaner,string
-5d1a8843-cf58-4067-8e3c-be68dbcf5f7e,better_in_imitation_kangaroo,string
-3b09b704-3ac3-45d0-8fbd-6443d921de3b,better_in_imitation_frog,string
-d93eeb26-1177-4d69-8626-c6fce5f5cab2,better_in_imitation_splash,string
-de6c76c1-ea93-4987-b05b-850d95d9862b,better_in_imitation_elephant,string
-2e4c0731-9d5f-465b-9248-2fd498cc51ce,better_in_imitation_sprinkles,string
-a3d66c1f-d317-498c-9991-9dab14b080cf,better_in_imitation_strawberries,string
-9d72c9a4-e5dd-4a8a-be07-6004f256248b,better_in_imitation_cheese,string
-4c8881e8-1135-41c7-82bf-3e52d73b748b,better_in_imitation_screwdriver,string
-5dad33bd-60a4-49c5-8dab-51381138ba55,better_in_imitation_score,string
-a93f8eca-4347-476e-b498-d2268e3662ee,total_number_of_attempts,string
- b38a71da-d5e8-4689-966c-8e7a855aea02,percentage,string
+questionId(UUID),Question,ResponseType,SubTest,ExtractOrder
+f6c509a0-dd6a-4831-8a66-294d67b36e14,better_in_imitation_clouds,string,Better in Imitation,132
+fca3f1a9-9f80-41a1-9fa3-26b5840049f7,better_in_imitation_helicopter,string,Better in Imitation,133
+ce0a9260-0e90-44d9-9c9c-a08861101265,better_in_imitation_witch,string,Better in Imitation,134
+9eb7ac1b-f078-4c61-8dab-5bedef63c496,better_in_imitation_sheep,string,Better in Imitation,135
+225c72b8-f3a4-41ec-ba43-ad0ca573ba8d,better_in_imitation_lunchbox,string,Better in Imitation,136
+d8b8f6a9-34be-41cd-a392-1ab3f0de914a,better_in_imitation_octopus,string,Better in Imitation,137
+4af86f5a-eec2-47c7-bb5f-a6898d3c4eef,better_in_imitation_vacuum_cleaner,string,Better in Imitation,138
+5d1a8843-cf58-4067-8e3c-be68dbcf5f7e,better_in_imitation_kangaroo,string,Better in Imitation,139
+3b09b704-3ac3-45d0-8fbd-6443d921de3b,better_in_imitation_frog,string,Better in Imitation,140
+d93eeb26-1177-4d69-8626-c6fce5f5cab2,better_in_imitation_splash,string,Better in Imitation,141
+de6c76c1-ea93-4987-b05b-850d95d9862b,better_in_imitation_elephant,string,Better in Imitation,142
+2e4c0731-9d5f-465b-9248-2fd498cc51ce,better_in_imitation_sprinkles,string,Better in Imitation,143
+a3d66c1f-d317-498c-9991-9dab14b080cf,better_in_imitation_strawberries,string,Better in Imitation,144
+9d72c9a4-e5dd-4a8a-be07-6004f256248b,better_in_imitation_cheese,string,Better in Imitation,145
+4c8881e8-1135-41c7-82bf-3e52d73b748b,better_in_imitation_screwdriver,string,Better in Imitation,146
+5dad33bd-60a4-49c5-8dab-51381138ba55,better_in_imitation_score,string,Better in Imitation,147
+a93f8eca-4347-476e-b498-d2268e3662ee,total_number_of_attempts,string,Better in Imitation,148
+ b38a71da-d5e8-4689-966c-8e7a855aea02,percentage,string,Better in Imitation,149
