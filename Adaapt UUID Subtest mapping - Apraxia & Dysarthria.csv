@@ -34,3 +34,6 @@ b90e358e-4f40-435b-9a06-359e6e6db3f1,Connected Speech,stressErrors,string
 60af9a00-edb3-47dc-83fe-5a84602d01bf,Connected Speech,syllableSegregation,string
 0bd857cc-0ca9-470c-9a3b-ca283172557e,Connected Speech,transpositionErrors,string
 b34c14ef-89bc-4bc1-85f7-b9286214a55e,Connected Speech,voicingErrors,string
+100fac7f-69cc-4746-be59-4a52c9f46ef3,Connected Speech,intelligibility,string
+fef86d56-8c0f-48ae-9d0d-8e93cd004404,Connected Speech,naturalness,string
+621b48be-b691-4f9f-8be3-96e134dabbea,Connected Speech,N.A.,phonetic
