@@ -35,3 +35,9 @@ e505d798-8c96-4acb-805d-fd74daed1e49,function,Tongue,Interdental,string
 5fe791e4-d90c-40a9-a6ae-d03dd427776c,function,AlternatingSequencesAndNovelWords,Monosyllabic,string
 6c2d8c99-3790-45f2-a8db-fd431f65fd71,function,AlternatingSequencesAndNovelWords,OralNasalAlternation,string
 53bafe24-737b-47b0-809c-1106d22b4e52,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternation,string
+62e0fec3-d814-4386-8bc8-ef5d44abb394,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTime,phonetic
+e050ef8a-12a2-4a7e-a9be-40a77b94c8eb,function,LarynxRespiration,PitchVariabilityAndControl,phonetic
+8c2d2bfe-5a10-4831-83c3-3fb3ce2ef81f,function,LarynxRespiration,VolumeLoudnessControl,phonetic
+e1c01306-cb28-4821-a694-7d19c1fcf920,function,AlternatingSequencesAndNovelWords,Monosyllabic,phonetic
+b5482324-c9c0-445c-a922-89eafa3bbda3,function,AlternatingSequencesAndNovelWords,OralNasalAlternation,phonetic
+a540f04f-3551-450c-95a3-9331f2d80b6e,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternation,phonetic
