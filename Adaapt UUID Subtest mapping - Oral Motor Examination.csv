@@ -1,43 +1,82 @@
-questionId(UUID),Section,Subsection,Question,ResponseType
-7f80888b-015f-49b2-8d7c-54be3f803b68,structure,Lips,TypicalOrAtypical,string
-6fe3ec41-b491-4b73-aeee-e1a8dab95093,structure,Lips,SpecifyAtypical,array
-15d052db-518a-45fe-a719-862bc989c76f,structure,Lips,SpecifyAtypicalOther,string
-093ce9e4-7d4a-4f7c-86d5-1164e8f17eac,structure,MandibleAndMaxilla,TypicalOrAtypical,string
-0bf5d625-d486-4b3f-a2a9-0d144732c7a8,structure,MandibleAndMaxilla,SpecifyAtypical,array
-aa0f921e-13c2-48c5-819c-fdf8053bb992,structure,MandibleAndMaxilla,SpecifyOther,string
-f9e602e9-b559-4bbe-ad19-7051011fb65a,structure,MandibleAndMaxilla,SpecifyTeethNotInAlignment,array
-59f20b7f-8611-42a8-9a26-c5d9102b2d76,structure,Teeth,TypicalOrAtypical,string
-95bc19ef-f6b3-4441-bd9d-c38dc9b454d7,structure,Teeth,SpecifyAtypical,array
-7fd86c42-ce47-4fef-b160-2630367cc447,structure,TeethSpecifyOther,SpecifyOther,string
-a811a289-d56f-44d9-a6d5-ecc4b6de7172,structure,TongueSizeTypicalOrAtypical,TypicalOrAtypical,string
-dff3d56e-8100-4f83-9e90-951002a7eb9d,structure,TongueSizeSpecifyAtypical,SizeSpecifyAtypicalAppearance,array
-209d26d6-d303-44b9-ae73-88388db99d41,structure,TongueSizeSpecifyOther,SizeSpecifyOther,string
-81c8d22e-81c0-4005-81fe-a0984d4bad0c,structure,TongueAppearance,TypicalOrAtypical,string
-5cbfb642-0bb6-4c9e-b49e-188083c7363b,structure,TongueAppearance,SpecifyAtypical,array
-e9fe88f3-0862-42c6-a9eb-de01e7b07d7b,structure,TongueAppearance,SpecifyOther,string
-f6f942f7-0dc8-4c8c-8a70-3a756c6ef1c0,structure,VelopharynxAndPalateAppearance,TypicalOrAtypical,string
-ee0c87c8-2ffc-4cc3-96e3-6fca35104813,structure,VelopharynxAndPalateAppearance,SpecifyAtypical,array
-e11cd63e-9562-449e-ae3d-5ed55945ac6a,structure,VelopharynxAndPalateAppearance,SpecifyOther,string
-34c64414-a3d2-47a3-a323-0986e199249c,function,LipsMandibleAndMaxilla,Protrusion,string
-903a1923-141b-4c9b-8e62-eddf71d32011,function,LipsMandibleAndMaxilla,Retraction,string
-3f08d7c5-a2b0-4f85-a06c-1537ff233480,function,LipsMandibleAndMaxilla,Alternate,string
-ee2713c4-a0c7-4083-8347-ceede2ac5acf,function,LipsMandibleAndMaxilla,BiteLowerLip,string
-6057a3cf-64b2-4266-9892-aaf116cf0c5a,function,LipsMandibleAndMaxilla,OpenCloseLips,string
-aabe490c-c4fa-4f69-9279-345337e6b7da,function,LipsMandibleAndMaxilla,Sequencing,string
-34c0b024-1155-4320-b729-530f9415c4ec,function,Tongue,Protrusion,string
-cc4ebdd9-739e-4ccf-adc2-0eb7e6f8b2f6,function,Tongue,Sequencing,string
-2a329c1a-71d1-44b2-9c3d-1cbde6852157,function,Tongue,Elevation,string
-e505d798-8c96-4acb-805d-fd74daed1e49,function,Tongue,Interdental,string
-3ef97670-9943-4fa0-8635-df2a47374ff8,function,VelopharynxAndPalate,VelopharynxAndPalate,string
-2bd69cc4-a36f-42ae-b750-7b736c1cec42,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTime,string
-5bcea8d9-240b-49c6-a453-fdc7b7bd46d9,function,LarynxRespiration,PitchVariabilityAndControl,string
-5185f681-5211-4f13-93a0-34c7e5578861,function,LarynxRespiration,VolumeLoudnessControl,string
-5fe791e4-d90c-40a9-a6ae-d03dd427776c,function,AlternatingSequencesAndNovelWords,Monosyllabic,string
-6c2d8c99-3790-45f2-a8db-fd431f65fd71,function,AlternatingSequencesAndNovelWords,OralNasalAlternation,string
-53bafe24-737b-47b0-809c-1106d22b4e52,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternation,string
-62e0fec3-d814-4386-8bc8-ef5d44abb394,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTime,phonetic
-e050ef8a-12a2-4a7e-a9be-40a77b94c8eb,function,LarynxRespiration,PitchVariabilityAndControl,phonetic
-8c2d2bfe-5a10-4831-83c3-3fb3ce2ef81f,function,LarynxRespiration,VolumeLoudnessControl,phonetic
-e1c01306-cb28-4821-a694-7d19c1fcf920,function,AlternatingSequencesAndNovelWords,Monosyllabic,phonetic
-b5482324-c9c0-445c-a922-89eafa3bbda3,function,AlternatingSequencesAndNovelWords,OralNasalAlternation,phonetic
-a540f04f-3551-450c-95a3-9331f2d80b6e,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternation,phonetic
+questionId(UUID),Section,Subsection,Question,ResponseType,SubTest,ExtractOrder
+7f80888b-015f-49b2-8d7c-54be3f803b68,structure,Lips,TypicalOrAtypical,string,Oral Motor – Structure,295
+6fe3ec41-b491-4b73-aeee-e1a8dab95093,structure,Lips,SpecifyAtypical,array,Oral Motor – Structure,296
+15d052db-518a-45fe-a719-862bc989c76f,structure,Lips,SpecifyAtypicalOther,string,Oral Motor – Structure,297
+093ce9e4-7d4a-4f7c-86d5-1164e8f17eac,structure,MandibleAndMaxilla,TypicalOrAtypical,string,Oral Motor – Structure,298
+0bf5d625-d486-4b3f-a2a9-0d144732c7a8,structure,MandibleAndMaxilla,SpecifyAtypical,array,Oral Motor – Structure,299
+aa0f921e-13c2-48c5-819c-fdf8053bb992,structure,MandibleAndMaxilla,SpecifyOther,string,Oral Motor – Structure,300
+f9e602e9-b559-4bbe-ad19-7051011fb65a,structure,MandibleAndMaxilla,SpecifyTeethNotInAlignment,array,Oral Motor – Structure,301
+59f20b7f-8611-42a8-9a26-c5d9102b2d76,structure,Teeth,TypicalOrAtypical,string,Oral Motor – Structure,302
+95bc19ef-f6b3-4441-bd9d-c38dc9b454d7,structure,Teeth,SpecifyAtypical,array,Oral Motor – Structure,303
+7fd86c42-ce47-4fef-b160-2630367cc447,structure,TeethSpecifyOther,SpecifyOther,string,Oral Motor – Structure,304
+a811a289-d56f-44d9-a6d5-ecc4b6de7172,structure,TongueSizeTypicalOrAtypical,TypicalOrAtypical,string,Oral Motor – Structure,305
+dff3d56e-8100-4f83-9e90-951002a7eb9d,structure,TongueSizeSpecifyAtypical,SizeSpecifyAtypicalAppearance,array,Oral Motor – Structure,306
+209d26d6-d303-44b9-ae73-88388db99d41,structure,TongueSizeSpecifyOther,SizeSpecifyOther,string,Oral Motor – Structure,307
+81c8d22e-81c0-4005-81fe-a0984d4bad0c,structure,TongueAppearance,TypicalOrAtypical,string,Oral Motor – Structure,308
+5cbfb642-0bb6-4c9e-b49e-188083c7363b,structure,TongueAppearance,SpecifyAtypical,array,Oral Motor – Structure,309
+e9fe88f3-0862-42c6-a9eb-de01e7b07d7b,structure,TongueAppearance,SpecifyOther,string,Oral Motor – Structure,310
+f6f942f7-0dc8-4c8c-8a70-3a756c6ef1c0,structure,VelopharynxAndPalateAppearance,TypicalOrAtypical,string,Oral Motor – Structure,311
+ee0c87c8-2ffc-4cc3-96e3-6fca35104813,structure,VelopharynxAndPalateAppearance,SpecifyAtypical,array,Oral Motor – Structure,312
+e11cd63e-9562-449e-ae3d-5ed55945ac6a,structure,VelopharynxAndPalateAppearance,SpecifyOther,string,Oral Motor – Structure,313
+34c64414-a3d2-47a3-a323-0986e199249c,function,LipsMandibleAndMaxilla,Protrusion,string,Oral Motor – Function,314
+903a1923-141b-4c9b-8e62-eddf71d32011,function,LipsMandibleAndMaxilla,Retraction,string,Oral Motor – Function,315
+3f08d7c5-a2b0-4f85-a06c-1537ff233480,function,LipsMandibleAndMaxilla,Alternate,string,Oral Motor – Function,316
+ee2713c4-a0c7-4083-8347-ceede2ac5acf,function,LipsMandibleAndMaxilla,BiteLowerLip,string,Oral Motor – Function,317
+6057a3cf-64b2-4266-9892-aaf116cf0c5a,function,LipsMandibleAndMaxilla,OpenCloseLips,string,Oral Motor – Function,318
+aabe490c-c4fa-4f69-9279-345337e6b7da,function,LipsMandibleAndMaxilla,Sequencing,string,Oral Motor – Function,319
+34c0b024-1155-4320-b729-530f9415c4ec,function,Tongue,Protrusion,string,Oral Motor – Function,320
+cc4ebdd9-739e-4ccf-adc2-0eb7e6f8b2f6,function,Tongue,Sequencing,string,Oral Motor – Function,321
+2a329c1a-71d1-44b2-9c3d-1cbde6852157,function,Tongue,Elevation,string,Oral Motor – Function,322
+e505d798-8c96-4acb-805d-fd74daed1e49,function,Tongue,Interdental,string,Oral Motor – Function,323
+3ef97670-9943-4fa0-8635-df2a47374ff8,function,VelopharynxAndPalate,VelopharynxAndPalate,string,Oral Motor – Function,324
+2bd69cc4-a36f-42ae-b750-7b736c1cec42,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTime,string,Oral Motor – Function,325
+5bcea8d9-240b-49c6-a453-fdc7b7bd46d9,function,LarynxRespiration,PitchVariabilityAndControl,string,Oral Motor – Function,326
+5185f681-5211-4f13-93a0-34c7e5578861,function,LarynxRespiration,VolumeLoudnessControl,string,Oral Motor – Function,327
+5fe791e4-d90c-40a9-a6ae-d03dd427776c,function,AlternatingSequencesAndNovelWords,Monosyllabic,string,Oral Motor – Function,328
+6c2d8c99-3790-45f2-a8db-fd431f65fd71,function,AlternatingSequencesAndNovelWords,OralNasalAlternation,string,Oral Motor – Function,329
+53bafe24-737b-47b0-809c-1106d22b4e52,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternation,string,Oral Motor – Function,330
+62e0fec3-d814-4386-8bc8-ef5d44abb394,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTime,phonetic,Oral Motor – Function,331
+e050ef8a-12a2-4a7e-a9be-40a77b94c8eb,function,LarynxRespiration,PitchVariabilityAndControl,phonetic,Oral Motor – Function,332
+8c2d2bfe-5a10-4831-83c3-3fb3ce2ef81f,function,LarynxRespiration,VolumeLoudnessControl,phonetic,Oral Motor – Function,333
+e1c01306-cb28-4821-a694-7d19c1fcf920,function,AlternatingSequencesAndNovelWords,Monosyllabic,phonetic,Oral Motor – Function,334
+b5482324-c9c0-445c-a922-89eafa3bbda3,function,AlternatingSequencesAndNovelWords,OralNasalAlternation,phonetic,Oral Motor – Function,335
+a540f04f-3551-450c-95a3-9331f2d80b6e,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternation,phonetic,Oral Motor – Function,336
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+>>>>>>> master,,,,,,
