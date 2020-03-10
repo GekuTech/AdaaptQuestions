@@ -27,3 +27,5 @@ f9f72d33-11df-446a-bfc9-4f4eb97cd53a,DeaffricationCount,string,Phonology Score,9
 c75253a1-1542-4103-a280-e32f8604ccd0,DeaffricationWordPhoneticArray,array,Phonology Score,91
 6706de22-18c2-4ac5-847d-40e1e0fae252,TranspositionCount,string,Phonology Score,92
 e1bf970e-bbf9-4298-b8d7-f2621dc0eb0d,TranspositionWordPhoneticArray,array,Phonology Score,93
+531dda21-54cf-4b50-b1ed-7e5df2ccf08d,DevoicingCount,string,Phonology Score,94
+fc019834-d629-46f5-889e-9a58acec4894,DevoicingWordPhoneticArray,array,Phonology Score,95
