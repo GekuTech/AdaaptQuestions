@@ -17,7 +17,7 @@ c4824b8c-2f7c-47d5-ae88-add1c284e553,CaseInformation,,SpecifyLanguageUnderstandi
 9eae3fcc-4879-4135-8548-6a51e3d7958d,CaseInformation,,reasonToVisitPathologistBefore,string,Case History,16
 a0735040-ed37-433c-9141-c3fddfe96b65,CaseInformation,,hasChildRecieveAnyDiagnosisBefore,string,Case History,17
 88dc4a07-1788-4fdf-8171-8347b0fd5e71,CaseInformation,,specifyTypeOfDiagnosis,string,Case History,18
-e39262c1-f459-425b-8ce5-14dedbf2455d,CaseInformation,,specifyOtherTypeOfDiagnosis,array,Case History,19
+e39262c1-f459-425b-8ce5-14dedbf2455d,CaseInformation,,specifyOtherTypeOfDiagnosis,string,Case History,19
 5ad9aa0e-8a1d-4d91-8855-3f8013e95650,CaseInformation,,ageWhenChildRecieveDiagnosisBefore,string,Case History,20
 06f6b159-4bb4-423a-bd5b-ad987f76f6e1,CaseInformation,,DevelopmentalConcerns,string,Case History,21
 a1ac3197-0118-426e-b550-8f1bd6cb768c,CaseInformation,,SpecifyDevelopmentalConcerns,string,Case History,22
@@ -308,23 +308,23 @@ f6fe0d58-74d7-4423-b3c8-db190b73cb67,ʒ,,/aʒa/model,string,Stimulability,306
 f4a709a1-9ef9-4744-b61d-e175b5d35ec2,ʒ,,/aʒa/cue,string,Stimulability,307
 95c2423d-4f48-4004-a1ed-761f3043605d,,,not_stimulable_sounds,array,Stimulability Score,308
 7f80888b-015f-49b2-8d7c-54be3f803b68,structure,Lips,TypicalOrAtypical,string,Oral Motor – Structure,309
-6fe3ec41-b491-4b73-aeee-e1a8dab95093,structure,Lips,SpecifyAtypical,array,Oral Motor – Structure,310
+6fe3ec41-b491-4b73-aeee-e1a8dab95093,structure,Lips,SpecifyAtypical,string,Oral Motor – Structure,310
 15d052db-518a-45fe-a719-862bc989c76f,structure,Lips,SpecifyAtypicalOther,string,Oral Motor – Structure,311
 093ce9e4-7d4a-4f7c-86d5-1164e8f17eac,structure,MandibleAndMaxilla,TypicalOrAtypical,string,Oral Motor – Structure,312
-0bf5d625-d486-4b3f-a2a9-0d144732c7a8,structure,MandibleAndMaxilla,SpecifyAtypical,array,Oral Motor – Structure,313
+0bf5d625-d486-4b3f-a2a9-0d144732c7a8,structure,MandibleAndMaxilla,SpecifyAtypical,string,Oral Motor – Structure,313
 aa0f921e-13c2-48c5-819c-fdf8053bb992,structure,MandibleAndMaxilla,SpecifyOther,string,Oral Motor – Structure,314
-f9e602e9-b559-4bbe-ad19-7051011fb65a,structure,MandibleAndMaxilla,SpecifyTeethNotInAlignment,array,Oral Motor – Structure,315
+f9e602e9-b559-4bbe-ad19-7051011fb65a,structure,MandibleAndMaxilla,SpecifyTeethNotInAlignment,string,Oral Motor – Structure,315
 59f20b7f-8611-42a8-9a26-c5d9102b2d76,structure,Teeth,TypicalOrAtypical,string,Oral Motor – Structure,316
-95bc19ef-f6b3-4441-bd9d-c38dc9b454d7,structure,Teeth,SpecifyAtypical,array,Oral Motor – Structure,317
+95bc19ef-f6b3-4441-bd9d-c38dc9b454d7,structure,Teeth,SpecifyAtypical,string,Oral Motor – Structure,317
 7fd86c42-ce47-4fef-b160-2630367cc447,structure,TeethSpecifyOther,SpecifyOther,string,Oral Motor – Structure,318
 a811a289-d56f-44d9-a6d5-ecc4b6de7172,structure,TongueSizeTypicalOrAtypical,TypicalOrAtypical,string,Oral Motor – Structure,319
-dff3d56e-8100-4f83-9e90-951002a7eb9d,structure,TongueSizeSpecifyAtypical,SizeSpecifyAtypicalAppearance,array,Oral Motor – Structure,320
+dff3d56e-8100-4f83-9e90-951002a7eb9d,structure,TongueSizeSpecifyAtypical,SizeSpecifyAtypicalAppearance,string,Oral Motor – Structure,320
 209d26d6-d303-44b9-ae73-88388db99d41,structure,TongueSizeSpecifyOther,SizeSpecifyOther,string,Oral Motor – Structure,321
 81c8d22e-81c0-4005-81fe-a0984d4bad0c,structure,TongueAppearance,TypicalOrAtypical,string,Oral Motor – Structure,322
-5cbfb642-0bb6-4c9e-b49e-188083c7363b,structure,TongueAppearance,SpecifyAtypical,array,Oral Motor – Structure,323
+5cbfb642-0bb6-4c9e-b49e-188083c7363b,structure,TongueAppearance,SpecifyAtypical,string,Oral Motor – Structure,323
 e9fe88f3-0862-42c6-a9eb-de01e7b07d7b,structure,TongueAppearance,SpecifyOther,string,Oral Motor – Structure,324
 f6f942f7-0dc8-4c8c-8a70-3a756c6ef1c0,structure,VelopharynxAndPalateAppearance,TypicalOrAtypical,string,Oral Motor – Structure,325
-ee0c87c8-2ffc-4cc3-96e3-6fca35104813,structure,VelopharynxAndPalateAppearance,SpecifyAtypical,array,Oral Motor – Structure,326
+ee0c87c8-2ffc-4cc3-96e3-6fca35104813,structure,VelopharynxAndPalateAppearance,SpecifyAtypical,string,Oral Motor – Structure,326
 e11cd63e-9562-449e-ae3d-5ed55945ac6a,structure,VelopharynxAndPalateAppearance,SpecifyOther,string,Oral Motor – Structure,327
 34c64414-a3d2-47a3-a323-0986e199249c,function,LipsMandibleAndMaxilla,Protrusion,string,Oral Motor – Function,328
 903a1923-141b-4c9b-8e62-eddf71d32011,function,LipsMandibleAndMaxilla,Retraction,string,Oral Motor – Function,329
@@ -349,22 +349,22 @@ e050ef8a-12a2-4a7e-a9be-40a77b94c8eb,function,LarynxRespiration,PitchVariability
 e1c01306-cb28-4821-a694-7d19c1fcf920,function,AlternatingSequencesAndNovelWords,Monosyllabic,phonetic,Oral Motor – Function,348
 b5482324-c9c0-445c-a922-89eafa3bbda3,function,AlternatingSequencesAndNovelWords,OralNasalAlternation,phonetic,Oral Motor – Function,349
 a540f04f-3551-450c-95a3-9331f2d80b6e,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternation,phonetic,Oral Motor – Function,350
-c43757b9-f781-452c-9909-a531acad8d85,Rainbow,,N.A.,array,Apraxia & Dysarthria,351
-4dee2f4f-4cf3-4feb-99f9-08830c04e29a,Monkey,,N.A.,array,Apraxia & Dysarthria,352
-e1b4b0c9-6e71-45dc-a66b-ae327f7ef255,Giraffe,,N.A.,array,Apraxia & Dysarthria,353
-005105eb-b03d-4c91-85d5-ef1b1e8af921,Dinosaur,,N.A.,array,Apraxia & Dysarthria,354
-24ab452a-e010-4191-80b5-18db03115432,Balloons,,N.A.,array,Apraxia & Dysarthria,355
-af22dfa0-1bad-4f7f-999e-5d1a0f77c000,Birthday Cake,,N.A.,array,Apraxia & Dysarthria,356
-b7ab16b0-65e3-40fb-b64f-bffc45c404aa,Chocolate,,N.A.,array,Apraxia & Dysarthria,357
-2b1aed84-690f-4d66-b4a1-042cbfac7137,Washing Machine,,N.A.,array,Apraxia & Dysarthria,358
-c6166569-6086-4e62-9039-c943f0b144c5,Computer,,N.A.,array,Apraxia & Dysarthria,359
-30e75a84-40dd-4a21-a5b0-4e7f691f8c02,Playground,,N.A.,array,Apraxia & Dysarthria,360
-e40c152d-5195-442d-afed-eb105ea67c78,Sunflower,,N.A.,array,Apraxia & Dysarthria,361
-e01d69a0-c777-476c-af1f-66f3d97073f2,Treasure,,N.A.,array,Apraxia & Dysarthria,362
-ac0947b9-c7a2-43c8-94bb-60fdb1def200,Ambulance,,N.A.,array,Apraxia & Dysarthria,363
-685538b5-d327-4141-bb16-f7bcbe3f6090,Hospital,,N.A.,array,Apraxia & Dysarthria,364
-2fc0eb22-aa2b-457f-b533-279ef1bddebd,Feather,,N.A.,array,Apraxia & Dysarthria,365
-5103d69f-361f-4f86-9b51-153b86f0d03a,Connected Speech,,N.A.,array,Apraxia & Dysarthria,366
+c43757b9-f781-452c-9909-a531acad8d85,Rainbow,,N.A.,string,Apraxia & Dysarthria,351
+4dee2f4f-4cf3-4feb-99f9-08830c04e29a,Monkey,,N.A.,string,Apraxia & Dysarthria,352
+e1b4b0c9-6e71-45dc-a66b-ae327f7ef255,Giraffe,,N.A.,string,Apraxia & Dysarthria,353
+005105eb-b03d-4c91-85d5-ef1b1e8af921,Dinosaur,,N.A.,string,Apraxia & Dysarthria,354
+24ab452a-e010-4191-80b5-18db03115432,Balloons,,N.A.,string,Apraxia & Dysarthria,355
+af22dfa0-1bad-4f7f-999e-5d1a0f77c000,Birthday Cake,,N.A.,string,Apraxia & Dysarthria,356
+b7ab16b0-65e3-40fb-b64f-bffc45c404aa,Chocolate,,N.A.,string,Apraxia & Dysarthria,357
+2b1aed84-690f-4d66-b4a1-042cbfac7137,Washing Machine,,N.A.,string,Apraxia & Dysarthria,358
+c6166569-6086-4e62-9039-c943f0b144c5,Computer,,N.A.,string,Apraxia & Dysarthria,359
+30e75a84-40dd-4a21-a5b0-4e7f691f8c02,Playground,,N.A.,string,Apraxia & Dysarthria,360
+e40c152d-5195-442d-afed-eb105ea67c78,Sunflower,,N.A.,string,Apraxia & Dysarthria,361
+e01d69a0-c777-476c-af1f-66f3d97073f2,Treasure,,N.A.,string,Apraxia & Dysarthria,362
+ac0947b9-c7a2-43c8-94bb-60fdb1def200,Ambulance,,N.A.,string,Apraxia & Dysarthria,363
+685538b5-d327-4141-bb16-f7bcbe3f6090,Hospital,,N.A.,string,Apraxia & Dysarthria,364
+2fc0eb22-aa2b-457f-b533-279ef1bddebd,Feather,,N.A.,string,Apraxia & Dysarthria,365
+5103d69f-361f-4f86-9b51-153b86f0d03a,Connected Speech,,N.A.,string,Apraxia & Dysarthria,366
 6d7d5ca4-8ee1-4611-95d7-a737b672e98d,Connected Speech,,additionErrors,string,Apraxia & Dysarthria,367
 48bbce0a-014b-4c38-a0b9-d1234e6f749c,Connected Speech,,alteredRate,string,Apraxia & Dysarthria,368
 0de7f5af-415c-45c3-854d-24bb42408786,Connected Speech,,alteredResonance,string,Apraxia & Dysarthria,369
