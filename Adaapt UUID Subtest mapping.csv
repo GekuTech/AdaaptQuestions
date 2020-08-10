@@ -76,36 +76,36 @@ f5786f9b-dae0-48d6-a408-667fd3bb93c1,,,Treasure,phonetic,Phonology,74
 7fbd2193-3400-4d36-ae3a-dd48c5faafb8,,,Ambulance,phonetic,Phonology,75
 e5c0dc44-a6d9-44cb-8f84-7ff4e7cb0976,,,Hospital,phonetic,Phonology,76
 7b6534d6-e0fc-4c59-a19f-2cb31d1a3366,,,Feather,phonetic,Phonology,77
-cdc2cc8c-d15e-405b-bb69-5e3e96f088b9,,,CorrectCount,string,Phonology Score,78
-9d61ddf3-00d1-4e39-a89a-d2da77cfa4a7,,,CorrectWordPhoneticArray,array,Phonology Score,79
-3ca5b517-6707-47dd-b391-d65f96619608,,,OtherCount,string,Phonology Score,80
-7b414e98-d075-4560-a1d2-d95f37ac2739,,,OtherWordPhoneticArray,array,Phonology Score,81
-120aef4b-b50f-4a6e-94e4-4efe3d0bcc7d,,,NoResponseCount,string,Phonology Score,82
-cf296d97-2b8a-4376-9e23-9289c599ee67,,,NoResponseWordPhoneticArray,array,Phonology Score,83
-35f1246e-b29a-4e3e-a1c4-fc3893dd7ba9,,,AssimilationCount,string,Phonology Score,84
-b02712a3-a52f-4842-8716-54550c135460,,,AssimilationWordPhoneticArray,array,Phonology Score,85
-a92593a2-890e-489f-ae7f-a12ea5939636,,,ClusterReductionCount,string,Phonology Score,86
-0071a1d1-1fdd-40a8-8938-773ba703726f,,,ClusterReductionWordPhoneticArray,array,Phonology Score,87
-9763db15-15b2-4bd3-8f8f-3f31b16c4036,,,FrontingFricativeCount,string,Phonology Score,88
-eb4d94e7-c294-4808-b42e-a1c23b370e79,,,FrontingFricativeWordPhoneticArray,array,Phonology Score,89
-3022cf02-7154-4f3d-bdc0-7abfd71faa9c,,,FrontingVelarCount,string,Phonology Score,90
-b57aa54b-a4dc-4366-80d2-30578f16b079,,,FrontingVelarWordPhoneticArray,array,Phonology Score,91
-172444c6-3817-44a3-86af-f14f2c0cb692,,,WeakSyllableDeletionCount,string,Phonology Score,92
-245913bb-a7ab-4cc3-8f4a-f3e4a4f34105,,,WeakSyllableDeletionWordPhoneticArray,array,Phonology Score,93
-57a77f19-f5ee-4585-868b-78a22c665b66,,,StoppingCount,string,Phonology Score,94
-aa77c6b8-3273-445d-bc2b-871104c51677,,,StoppingWordPhoneticArray,array,Phonology Score,95
-2624394b-31fb-4dd3-b124-3b4fe066eacd,,,GlidingCount,string,Phonology Score,96
-b765bae9-9443-47d4-964b-6ef512fdf43d,,,GlidingWordPhoneticArray,array,Phonology Score,97
-fbd984c7-18e3-42e6-83d3-373f6e4eb1fc,,,VoicingCount,string,Phonology Score,98
-de9b6b64-ac6b-40c8-b407-4640d01ff8fe,,,VoicingWordPhoneticArray,array,Phonology Score,99
-323b9769-8ec9-4b6d-a5f9-237817ef77c1,,,FinalConsonantDeletionCount,string,Phonology Score,100
-d2769203-dcfc-4019-9072-ee0f7352b541,,,FinalConsonantDeletionWordPhoneticArray,array,Phonology Score,101
-f9f72d33-11df-446a-bfc9-4f4eb97cd53a,,,DeaffricationCount,string,Phonology Score,102
-c75253a1-1542-4103-a280-e32f8604ccd0,,,DeaffricationWordPhoneticArray,array,Phonology Score,103
-6706de22-18c2-4ac5-847d-40e1e0fae252,,,TranspositionCount,string,Phonology Score,104
-e1bf970e-bbf9-4298-b8d7-f2621dc0eb0d,,,TranspositionWordPhoneticArray,array,Phonology Score,105
-531dda21-54cf-4b50-b1ed-7e5df2ccf08d,,,DevoicingCount,string,Phonology Score,106
-fc019834-d629-46f5-889e-9a58acec4894,,,DevoicingWordPhoneticArray,array,Phonology Score,107
+cdc2cc8c-d15e-405b-bb69-5e3e96f088b9,Phonology Score,,CorrectCount,string,Sub Test Calculated Results,78
+9d61ddf3-00d1-4e39-a89a-d2da77cfa4a7,Phonology Score,,CorrectWordPhoneticArray,array,Sub Test Calculated Results,79
+3ca5b517-6707-47dd-b391-d65f96619608,Phonology Score,,OtherCount,string,Sub Test Calculated Results,80
+7b414e98-d075-4560-a1d2-d95f37ac2739,Phonology Score,,OtherWordPhoneticArray,array,Sub Test Calculated Results,81
+120aef4b-b50f-4a6e-94e4-4efe3d0bcc7d,Phonology Score,,NoResponseCount,string,Sub Test Calculated Results,82
+cf296d97-2b8a-4376-9e23-9289c599ee67,Phonology Score,,NoResponseWordPhoneticArray,array,Sub Test Calculated Results,83
+35f1246e-b29a-4e3e-a1c4-fc3893dd7ba9,Phonology Score,,AssimilationCount,string,Sub Test Calculated Results,84
+b02712a3-a52f-4842-8716-54550c135460,Phonology Score,,AssimilationWordPhoneticArray,array,Sub Test Calculated Results,85
+a92593a2-890e-489f-ae7f-a12ea5939636,Phonology Score,,ClusterReductionCount,string,Sub Test Calculated Results,86
+0071a1d1-1fdd-40a8-8938-773ba703726f,Phonology Score,,ClusterReductionWordPhoneticArray,array,Sub Test Calculated Results,87
+9763db15-15b2-4bd3-8f8f-3f31b16c4036,Phonology Score,,FrontingFricativeCount,string,Sub Test Calculated Results,88
+eb4d94e7-c294-4808-b42e-a1c23b370e79,Phonology Score,,FrontingFricativeWordPhoneticArray,array,Sub Test Calculated Results,89
+3022cf02-7154-4f3d-bdc0-7abfd71faa9c,Phonology Score,,FrontingVelarCount,string,Sub Test Calculated Results,90
+b57aa54b-a4dc-4366-80d2-30578f16b079,Phonology Score,,FrontingVelarWordPhoneticArray,array,Sub Test Calculated Results,91
+172444c6-3817-44a3-86af-f14f2c0cb692,Phonology Score,,WeakSyllableDeletionCount,string,Sub Test Calculated Results,92
+245913bb-a7ab-4cc3-8f4a-f3e4a4f34105,Phonology Score,,WeakSyllableDeletionWordPhoneticArray,array,Sub Test Calculated Results,93
+57a77f19-f5ee-4585-868b-78a22c665b66,Phonology Score,,StoppingCount,string,Sub Test Calculated Results,94
+aa77c6b8-3273-445d-bc2b-871104c51677,Phonology Score,,StoppingWordPhoneticArray,array,Sub Test Calculated Results,95
+2624394b-31fb-4dd3-b124-3b4fe066eacd,Phonology Score,,GlidingCount,string,Sub Test Calculated Results,96
+b765bae9-9443-47d4-964b-6ef512fdf43d,Phonology Score,,GlidingWordPhoneticArray,array,Sub Test Calculated Results,97
+fbd984c7-18e3-42e6-83d3-373f6e4eb1fc,Phonology Score,,VoicingCount,string,Sub Test Calculated Results,98
+de9b6b64-ac6b-40c8-b407-4640d01ff8fe,Phonology Score,,VoicingWordPhoneticArray,array,Sub Test Calculated Results,99
+323b9769-8ec9-4b6d-a5f9-237817ef77c1,Phonology Score,,FinalConsonantDeletionCount,string,Sub Test Calculated Results,100
+d2769203-dcfc-4019-9072-ee0f7352b541,Phonology Score,,FinalConsonantDeletionWordPhoneticArray,array,Sub Test Calculated Results,101
+f9f72d33-11df-446a-bfc9-4f4eb97cd53a,Phonology Score,,DeaffricationCount,string,Sub Test Calculated Results,102
+c75253a1-1542-4103-a280-e32f8604ccd0,Phonology Score,,DeaffricationWordPhoneticArray,array,Sub Test Calculated Results,103
+6706de22-18c2-4ac5-847d-40e1e0fae252,Phonology Score,,TranspositionCount,string,Sub Test Calculated Results,104
+e1bf970e-bbf9-4298-b8d7-f2621dc0eb0d,Phonology Score,,TranspositionWordPhoneticArray,array,Sub Test Calculated Results,105
+531dda21-54cf-4b50-b1ed-7e5df2ccf08d,Phonology Score,,DevoicingCount,string,Sub Test Calculated Results,106
+fc019834-d629-46f5-889e-9a58acec4894,Phonology Score,,DevoicingWordPhoneticArray,array,Sub Test Calculated Results,107
 a47c1ae6-5745-48b0-924e-31b11355f7f0,Consistency,,Clouds,phonetic,Inconsistency,108
 45487a84-6e4d-433a-a03f-b8c77e6f4dc9,Consistency,,Helicopter,phonetic,Inconsistency,109
 f7fa2465-f2c2-4d96-908b-06894f1e3a60,Consistency,,Witch,phonetic,Inconsistency,110
@@ -121,14 +121,14 @@ c1cb04c5-3feb-42ac-b3bb-54a0d1f57ef4,Consistency,,Elephant,phonetic,Inconsistenc
 c1a782ed-1ab3-43f2-bb49-c64cbdcaffca,Consistency,,Strawberries,phonetic,Inconsistency,120
 0398c7f9-9f2d-4805-b246-a7edde5468e6,Consistency,,Cheese,phonetic,Inconsistency,121
 a8aba04a-f7a1-4bf9-9205-553ed70d0c16,Consistency,,Screwdriver,phonetic,Inconsistency,122
-f1d04fbd-c872-4bf3-b9eb-362ca4846c03,,,correct_correct_percentage,string,Inconsistency Score,123
-e0ec4c44-5379-489c-8178-84899ed387f4,,,correct_incorrect_percentage,string,Inconsistency Score,124
-17207115-1180-4d39-886e-b7a67a933ccb,,,same_error_percentage,string,Inconsistency Score,125
-4f4da452-bf78-4c18-964f-d9aeb1a5b80d,,,different_error_percentage,string,Inconsistency Score,126
-2199d49d-249b-4e6f-b52c-e3c733315493,,,correct_correct_words,array,Inconsistency Score,127
-3fe5f541-f789-4a10-ba9c-c3750eb7c446,,,correct_incorrect_words,array,Inconsistency Score,128
-1447ca3c-e603-4466-9490-4f5b7d474fef,,,same_error_words,array,Inconsistency Score,129
-3fac7699-cc17-4331-8f37-00c6c42a406d,,,different_error_words,array,Inconsistency Score,130
+f1d04fbd-c872-4bf3-b9eb-362ca4846c03,Inconsistency Score,,correct_correct_percentage,string,Sub Test Calculated Results,123
+e0ec4c44-5379-489c-8178-84899ed387f4,Inconsistency Score,,correct_incorrect_percentage,string,Sub Test Calculated Results,124
+17207115-1180-4d39-886e-b7a67a933ccb,Inconsistency Score,,same_error_percentage,string,Sub Test Calculated Results,125
+4f4da452-bf78-4c18-964f-d9aeb1a5b80d,Inconsistency Score,,different_error_percentage,string,Sub Test Calculated Results,126
+2199d49d-249b-4e6f-b52c-e3c733315493,Inconsistency Score,,correct_correct_words,array,Sub Test Calculated Results,127
+3fe5f541-f789-4a10-ba9c-c3750eb7c446,Inconsistency Score,,correct_incorrect_words,array,Sub Test Calculated Results,128
+1447ca3c-e603-4466-9490-4f5b7d474fef,Inconsistency Score,,same_error_words,array,Sub Test Calculated Results,129
+3fac7699-cc17-4331-8f37-00c6c42a406d,Inconsistency Score,,different_error_words,array,Sub Test Calculated Results,130
 37ffb4ea-a330-4257-91fc-f04355b06a12,Imitation,,Clouds,phonetic,Imitation,131
 41211127-2663-4ac9-8737-93261358aef4,Imitation,,Helicopter,phonetic,Imitation,132
 eb20f55c-f5a5-4b75-9934-8be634f3fbf6,Imitation,,Witch,phonetic,Imitation,133
@@ -144,24 +144,24 @@ c72604b4-2742-4bb6-863b-eee115abb8bf,Imitation,,Sprinkles,phonetic,Imitation,142
 05119592-0e3b-4ee8-9492-fc926bd6f708,Imitation,,Strawberries,phonetic,Imitation,143
 bf289fee-ff38-48b2-9a9c-b77082035484,Imitation,,Cheese,phonetic,Imitation,144
 7a8fd53a-173d-44c0-b80c-8c037a9be9c5,Imitation,,Screwdriver,phonetic,Imitation,145
-f6c509a0-dd6a-4831-8a66-294d67b36e14,,,better_in_imitation_clouds,string,Better in Imitation,146
-fca3f1a9-9f80-41a1-9fa3-26b5840049f7,,,better_in_imitation_helicopter,string,Better in Imitation,147
-ce0a9260-0e90-44d9-9c9c-a08861101265,,,better_in_imitation_witch,string,Better in Imitation,148
-9eb7ac1b-f078-4c61-8dab-5bedef63c496,,,better_in_imitation_sheep,string,Better in Imitation,149
-225c72b8-f3a4-41ec-ba43-ad0ca573ba8d,,,better_in_imitation_lunchbox,string,Better in Imitation,150
-d8b8f6a9-34be-41cd-a392-1ab3f0de914a,,,better_in_imitation_octopus,string,Better in Imitation,151
-4af86f5a-eec2-47c7-bb5f-a6898d3c4eef,,,better_in_imitation_vacuum_cleaner,string,Better in Imitation,152
-5d1a8843-cf58-4067-8e3c-be68dbcf5f7e,,,better_in_imitation_kangaroo,string,Better in Imitation,153
-3b09b704-3ac3-45d0-8fbd-6443d921de3b,,,better_in_imitation_frog,string,Better in Imitation,154
-d93eeb26-1177-4d69-8626-c6fce5f5cab2,,,better_in_imitation_splash,string,Better in Imitation,155
-de6c76c1-ea93-4987-b05b-850d95d9862b,,,better_in_imitation_elephant,string,Better in Imitation,156
-2e4c0731-9d5f-465b-9248-2fd498cc51ce,,,better_in_imitation_sprinkles,string,Better in Imitation,157
-a3d66c1f-d317-498c-9991-9dab14b080cf,,,better_in_imitation_strawberries,string,Better in Imitation,158
-9d72c9a4-e5dd-4a8a-be07-6004f256248b,,,better_in_imitation_cheese,string,Better in Imitation,159
-4c8881e8-1135-41c7-82bf-3e52d73b748b,,,better_in_imitation_screwdriver,string,Better in Imitation,160
-5dad33bd-60a4-49c5-8dab-51381138ba55,,,better_in_imitation_score,string,Better in Imitation,161
-a93f8eca-4347-476e-b498-d2268e3662ee,,,total_number_of_attempts,string,Better in Imitation,162
-b38a71da-d5e8-4689-966c-8e7a855aea02,,,percentage,string,Better in Imitation,163
+f6c509a0-dd6a-4831-8a66-294d67b36e14,Better in Imitation,,better_in_imitation_clouds,string,Sub Test Calculated Results,146
+fca3f1a9-9f80-41a1-9fa3-26b5840049f7,Better in Imitation,,better_in_imitation_helicopter,string,Sub Test Calculated Results,147
+ce0a9260-0e90-44d9-9c9c-a08861101265,Better in Imitation,,better_in_imitation_witch,string,Sub Test Calculated Results,148
+9eb7ac1b-f078-4c61-8dab-5bedef63c496,Better in Imitation,,better_in_imitation_sheep,string,Sub Test Calculated Results,149
+225c72b8-f3a4-41ec-ba43-ad0ca573ba8d,Better in Imitation,,better_in_imitation_lunchbox,string,Sub Test Calculated Results,150
+d8b8f6a9-34be-41cd-a392-1ab3f0de914a,Better in Imitation,,better_in_imitation_octopus,string,Sub Test Calculated Results,151
+4af86f5a-eec2-47c7-bb5f-a6898d3c4eef,Better in Imitation,,better_in_imitation_vacuum_cleaner,string,Sub Test Calculated Results,152
+5d1a8843-cf58-4067-8e3c-be68dbcf5f7e,Better in Imitation,,better_in_imitation_kangaroo,string,Sub Test Calculated Results,153
+3b09b704-3ac3-45d0-8fbd-6443d921de3b,Better in Imitation,,better_in_imitation_frog,string,Sub Test Calculated Results,154
+d93eeb26-1177-4d69-8626-c6fce5f5cab2,Better in Imitation,,better_in_imitation_splash,string,Sub Test Calculated Results,155
+de6c76c1-ea93-4987-b05b-850d95d9862b,Better in Imitation,,better_in_imitation_elephant,string,Sub Test Calculated Results,156
+2e4c0731-9d5f-465b-9248-2fd498cc51ce,Better in Imitation,,better_in_imitation_sprinkles,string,Sub Test Calculated Results,157
+a3d66c1f-d317-498c-9991-9dab14b080cf,Better in Imitation,,better_in_imitation_strawberries,string,Sub Test Calculated Results,158
+9d72c9a4-e5dd-4a8a-be07-6004f256248b,Better in Imitation,,better_in_imitation_cheese,string,Sub Test Calculated Results,159
+4c8881e8-1135-41c7-82bf-3e52d73b748b,Better in Imitation,,better_in_imitation_screwdriver,string,Sub Test Calculated Results,160
+5dad33bd-60a4-49c5-8dab-51381138ba55,Better in Imitation,,better_in_imitation_score,string,Sub Test Calculated Results,161
+a93f8eca-4347-476e-b498-d2268e3662ee,Better in Imitation,,total_number_of_attempts,string,Sub Test Calculated Results,162
+b38a71da-d5e8-4689-966c-8e7a855aea02,Better in Imitation,,percentage,string,Sub Test Calculated Results,163
 2f6eff52-57e6-4182-b0dc-dbb0c2e88d84,Commonly distorted sounds,,Commonly Distored Sounds,string,Stimulability,164
 eacd84eb-3ec7-461b-97a2-9b921042b892,Commonly distorted sounds,,Commonly Distored Sounds - Other,string,Stimulability,165
 92fbba9b-3137-4250-b4b1-e49276cddbc5,P,,/pa/model,string,Stimulability,166
@@ -308,107 +308,107 @@ a6229e0b-bef2-4497-83e9-7fc72b2339b8,ʒ,,/ʒa/cue,string,Stimulability,305
 44447188-1359-4301-810c-e0439f8b8745,ʒ,,/aʒ/cue,string,Stimulability,307
 f6fe0d58-74d7-4423-b3c8-db190b73cb67,ʒ,,/aʒa/model,string,Stimulability,308
 f4a709a1-9ef9-4744-b61d-e175b5d35ec2,ʒ,,/aʒa/cue,string,Stimulability,309
-95c2423d-4f48-4004-a1ed-761f3043605d,,,not_stimulable_sounds,array,Stimulability Score,310
-7f80888b-015f-49b2-8d7c-54be3f803b68,structure,Lips,TypicalOrAtypical,string,Oral Motor – Structure,311
-6fe3ec41-b491-4b73-aeee-e1a8dab95093,structure,Lips,SpecifyAtypical,string,Oral Motor – Structure,312
-15d052db-518a-45fe-a719-862bc989c76f,structure,Lips,SpecifyAtypicalOther,string,Oral Motor – Structure,313
-093ce9e4-7d4a-4f7c-86d5-1164e8f17eac,structure,MandibleAndMaxilla,TypicalOrAtypical,string,Oral Motor – Structure,314
-0bf5d625-d486-4b3f-a2a9-0d144732c7a8,structure,MandibleAndMaxilla,SpecifyAtypical,string,Oral Motor – Structure,315
-aa0f921e-13c2-48c5-819c-fdf8053bb992,structure,MandibleAndMaxilla,SpecifyOther,string,Oral Motor – Structure,316
-f9e602e9-b559-4bbe-ad19-7051011fb65a,structure,MandibleAndMaxilla,SpecifyTeethNotInAlignment,string,Oral Motor – Structure,317
-59f20b7f-8611-42a8-9a26-c5d9102b2d76,structure,Teeth,TypicalOrAtypical,string,Oral Motor – Structure,318
-95bc19ef-f6b3-4441-bd9d-c38dc9b454d7,structure,Teeth,SpecifyAtypical,string,Oral Motor – Structure,319
-7fd86c42-ce47-4fef-b160-2630367cc447,structure,TeethSpecifyOther,SpecifyOther,string,Oral Motor – Structure,320
-a811a289-d56f-44d9-a6d5-ecc4b6de7172,structure,TongueSizeTypicalOrAtypical,TypicalOrAtypical,string,Oral Motor – Structure,321
-dff3d56e-8100-4f83-9e90-951002a7eb9d,structure,TongueSizeSpecifyAtypical,SizeSpecifyAtypicalAppearance,string,Oral Motor – Structure,322
-209d26d6-d303-44b9-ae73-88388db99d41,structure,TongueSizeSpecifyOther,SizeSpecifyOther,string,Oral Motor – Structure,323
-81c8d22e-81c0-4005-81fe-a0984d4bad0c,structure,TongueAppearance,TypicalOrAtypical,string,Oral Motor – Structure,324
-5cbfb642-0bb6-4c9e-b49e-188083c7363b,structure,TongueAppearance,SpecifyAtypical,string,Oral Motor – Structure,325
-e9fe88f3-0862-42c6-a9eb-de01e7b07d7b,structure,TongueAppearance,SpecifyOther,string,Oral Motor – Structure,326
-f6f942f7-0dc8-4c8c-8a70-3a756c6ef1c0,structure,VelopharynxAndPalateAppearance,TypicalOrAtypical,string,Oral Motor – Structure,327
-ee0c87c8-2ffc-4cc3-96e3-6fca35104813,structure,VelopharynxAndPalateAppearance,SpecifyAtypical,string,Oral Motor – Structure,328
-e11cd63e-9562-449e-ae3d-5ed55945ac6a,structure,VelopharynxAndPalateAppearance,SpecifyOther,string,Oral Motor – Structure,329
-34c64414-a3d2-47a3-a323-0986e199249c,function,LipsMandibleAndMaxilla - Protrusion,TypicalOrAtypical,string,Oral Motor – Function,330
-09f91bca-720b-4eaf-87d4-c34d5f517a0e,function,LipsMandibleAndMaxilla - Protrusion,SpecifyAtypical,string,Oral Motor – Function,331
-de8106e4-cc08-4570-aa37-3344ff5a8fda,function,LipsMandibleAndMaxilla - Protrusion,SpecifyOther,string,Oral Motor – Function,332
-903a1923-141b-4c9b-8e62-eddf71d32011,function,LipsMandibleAndMaxilla - Retraction,TypicalOrAtypical,string,Oral Motor – Function,333
-ff7e4a76-a0e1-49d6-bc00-8dff56ccb050,function,LipsMandibleAndMaxilla - Retraction,SpecifyAtypical,string,Oral Motor – Function,334
-07e02ac4-0fc0-4fd6-b458-989a38c95d3c,function,LipsMandibleAndMaxilla - Retraction,SpecifyOther,string,Oral Motor – Function,335
-3f08d7c5-a2b0-4f85-a06c-1537ff233480,function,LipsMandibleAndMaxilla - Alternate,TypicalOrAtypical,string,Oral Motor – Function,336
-c92588e7-16e2-4821-a394-b6cd1fc02e30,function,LipsMandibleAndMaxilla - Alternate,SpecifyAtypical,string,Oral Motor – Function,337
-bf069cad-5707-4c8d-a44f-6cdbf3cbddf5,function,LipsMandibleAndMaxilla - Alternate,SpecifyOther,string,Oral Motor – Function,338
-ee2713c4-a0c7-4083-8347-ceede2ac5acf,function,LipsMandibleAndMaxilla- BiteLowerLip,TypicalOrAtypical,string,Oral Motor – Function,339
-8d8131b4-433e-4502-ba49-fe456650719f,function,LipsMandibleAndMaxilla- BiteLowerLip,SpecifyAtypical,string,Oral Motor – Function,340
-4e8797a0-6dfd-4e61-a83d-83b930404b32,function,LipsMandibleAndMaxilla- BiteLowerLip,SpecifyOther,string,Oral Motor – Function,341
-6057a3cf-64b2-4266-9892-aaf116cf0c5a,function,LipsMandibleAndMaxilla- OpenCloseLips,TypicalOrAtypical,string,Oral Motor – Function,342
-62c116c2-ef7b-41fd-b016-0bd3c57ac6a5,function,LipsMandibleAndMaxilla- OpenCloseLips,SpecifyAtypical,string,Oral Motor – Function,343
-10c1a92d-e936-4c70-b3e2-fe0af6bcaf13,function,LipsMandibleAndMaxilla- OpenCloseLips,SpecifyOther,string,Oral Motor – Function,344
-aabe490c-c4fa-4f69-9279-345337e6b7da,function,LipsMandibleAndMaxilla- Sequencing,TypicalOrAtypical,string,Oral Motor – Function,345
-7a5cd2ac-9e38-4630-9ca2-a20db6888ba8,function,LipsMandibleAndMaxilla- Sequencing,SpecifyAtypical,string,Oral Motor – Function,346
-ded51039-f235-4371-805b-e7dcc10b4008,function,LipsMandibleAndMaxilla- Sequencing,SpecifyOther,string,Oral Motor – Function,347
-34c0b024-1155-4320-b729-530f9415c4ec,function,Tongue- Protrusion,TypicalOrAtypical,string,Oral Motor – Function,348
-86e5099e-4492-42ce-82b9-bfa42d4e21d0,function,Tongue- Protrusion,SpecifyAtypical,string,Oral Motor – Function,349
-8092d786-ad9b-4036-8496-484d422f93ef,function,Tongue- Protrusion,SpecifyOther,string,Oral Motor – Function,350
-cc4ebdd9-739e-4ccf-adc2-0eb7e6f8b2f6,function,Tongue- Sequencing,TypicalOrAtypical,string,Oral Motor – Function,351
-14816635-b51b-4eba-986c-acccc4e276e3,function,Tongue- Sequencing,SpecifyAtypical,string,Oral Motor – Function,352
-14e53983-ffa9-49f9-a38e-48647998aaf6,function,Tongue- Sequencing,SpecifyOther,string,Oral Motor – Function,353
-2a329c1a-71d1-44b2-9c3d-1cbde6852157,function,Tongue- Elevation,TypicalOrAtypical,string,Oral Motor – Function,354
-42d89df6-e34f-4d75-8f76-570a9a2100c0,function,Tongue- Elevation,SpecifyAtypical,string,Oral Motor – Function,355
-45462430-2c9a-48f0-a73f-1413a8d41e2f,function,Tongue- Elevation,SpecifyOther,string,Oral Motor – Function,356
-e505d798-8c96-4acb-805d-fd74daed1e49,function,Tongue- Interdental,TypicalOrAtypical,string,Oral Motor – Function,357
-286f349f-50bd-4b3a-9068-8e4972a20212,function,Tongue- Interdental,SpecifyAtypical,string,Oral Motor – Function,358
-f1299ad8-b140-4898-9ddc-dc27694ba5b0,function,Tongue- Interdental,SpecifyOther,string,Oral Motor – Function,359
-3ef97670-9943-4fa0-8635-df2a47374ff8,function,VelopharynxAndPalate,TypicalOrAtypical,string,Oral Motor – Function,360
-50cab095-1127-40fb-8d26-c6c22371024c,function,VelopharynxAndPalate,SpecifyAtypical,string,Oral Motor – Function,361
-df56821c-6ebd-4eab-810e-20fcefd50a5b,function,VelopharynxAndPalate,SpecifyOther,string,Oral Motor – Function,362
-2bd69cc4-a36f-42ae-b750-7b736c1cec42,function,LarynxRespirationMaximumPhonationTimeTrial1and2,MaximumPhonationTime,string,Oral Motor – Function,363
-83011292-671a-405c-b086-2c2561dc379e,function,LarynxRespirationMaximumPhonationTimeTrial3,MaximumPhonationTime,string,Oral Motor – Function,364
-5bcea8d9-240b-49c6-a453-fdc7b7bd46d9,function,LarynxRespiration- PitchVariabilityAndControlTrial1and2,TypicalOrAtypical,string,Oral Motor – Function,365
-9c96190d-848c-4f57-b0f8-763b6a44555a,function,LarynxRespiration- PitchVariabilityAndControlTrial1and2,SpecifyAtypical,string,Oral Motor – Function,366
-1346c6aa-6d84-4384-8e9d-1334f029f133,function,LarynxRespiration- PitchVariabilityAndControlTrial1and2,SpecifyOther,string,Oral Motor – Function,367
-16cf029b-9417-48e5-ba54-6427e2f7fcbd,function,LarynxRespiration- PitchVariabilityAndControlTrial3,TypicalOrAtypical,string,Oral Motor – Function,368
-83bb25c0-e8c1-4fbc-af66-42e4e1254cdb,function,LarynxRespiration- PitchVariabilityAndControlTrial3,SpecifyAtypical,string,Oral Motor – Function,369
-bf17593f-2b08-41e2-9417-d8940862ccab,function,LarynxRespiration- PitchVariabilityAndControlTrial3,SpecifyOther,string,Oral Motor – Function,370
-5185f681-5211-4f13-93a0-34c7e5578861,function,LarynxRespiration- VolumeLoudnessControlTrial1and2,TypicalOrAtypical,string,Oral Motor – Function,371
-1ce3b4f6-e572-439c-83a0-18c5235a31fa,function,LarynxRespiration- VolumeLoudnessControlTrial1and2,SpecifyAtypical,string,Oral Motor – Function,372
-c343bce5-2978-45e7-943e-0a7c727fac22,function,LarynxRespiration- VolumeLoudnessControlTrial1and2,SpecifyOther,string,Oral Motor – Function,373
-8476d436-e1cc-4643-920c-23456aff105e,function,LarynxRespiration- VolumeLoudnessControlTrial3,TypicalOrAtypical,string,Oral Motor – Function,374
-cfa9f564-61db-4fa1-b23c-47ca94aba4e6,function,LarynxRespiration- VolumeLoudnessControlTrial3,SpecifyAtypical,string,Oral Motor – Function,375
-e2443b67-94b3-4f7d-a765-24f0002d8e5f,function,LarynxRespiration- VolumeLoudnessControlTrial3,SpecifyOther,string,Oral Motor – Function,376
-5fe791e4-d90c-40a9-a6ae-d03dd427776c,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,Number of repetition,string,Oral Motor – Function,377
-c6c0a8c6-7150-4894-81ca-41c84ce9dbbd,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,TypicalOrAtypical,string,Oral Motor – Function,378
-629e167c-e0d9-4509-a5e5-a2b1b70f2389,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,SpecifyAtypical,string,Oral Motor – Function,379
-53dbaa40-8af8-4446-bbb0-4677e2266cca,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,SpecifyOther,string,Oral Motor – Function,380
-3052ba2d-a3ec-4301-9e7d-e573263b9346,function,AlternatingSequencesAndNovelWords- MonosyllabicTria3,Number of repetition,string,Oral Motor – Function,381
-933e7803-7433-4b09-ba2a-048bdc83d367,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial3,TypicalOrAtypical,string,Oral Motor – Function,382
-43151382-92f8-4079-bfb7-b350efc3ca67,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial3,SpecifyAtypical,string,Oral Motor – Function,383
-dd950356-8fc9-4545-a7ce-0494e333b053,function,AlternatingSequencesAndNovelWords- MonosyllabicTria3,SpecifyOther,string,Oral Motor – Function,384
-6c2d8c99-3790-45f2-a8db-fd431f65fd71,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,Number of repetition,string,Oral Motor – Function,385
-e2b65794-69b7-4702-b342-0d062ad3528b,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,TypicalOrAtypical,string,Oral Motor – Function,386
-e8cf2c6a-f95f-423d-b687-4f7c3d51b4ef,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,SpecifyAtypical,string,Oral Motor – Function,387
-cb045198-d57d-4a8f-ae90-653935d03831,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,SpecifyOther,string,Oral Motor – Function,388
-4b2a1f49-b403-4fb6-80aa-ade8362b6fce,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,Number of repetition,string,Oral Motor – Function,389
-bb5238e4-b859-4e0e-a185-ddc8d5e6ca27,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,TypicalOrAtypical,string,Oral Motor – Function,390
-6a77dd87-99ca-4303-84d1-0b33c0524042,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,SpecifyAtypical,string,Oral Motor – Function,391
-fac387bf-45cf-4189-bcd7-f5e2cb0ceaac,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,SpecifyOther,string,Oral Motor – Function,392
-53bafe24-737b-47b0-809c-1106d22b4e52,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,Number of repetition,string,Oral Motor – Function,393
-a94c4131-b664-42a7-a28c-719a5dd4b878,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,TypicalOrAtypical,string,Oral Motor – Function,394
-7bbf5bd3-443e-4313-baf3-cad4d61a5c3f,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,SpecifyAtypical,string,Oral Motor – Function,395
-b5cfeb41-7e76-4417-ae44-793b202abd90,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,SpecifyOther,string,Oral Motor – Function,396
-4c3514ad-5ab9-4528-95a7-6152c4c8749d,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,Number of repetition,string,Oral Motor – Function,397
-32591d37-aeff-4bb3-97e6-1150f59a34ed,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,TypicalOrAtypical,string,Oral Motor – Function,398
-e90842ca-bef5-4b2e-8295-93a007ee831f,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,SpecifyAtypical,string,Oral Motor – Function,399
-ab692a51-4768-4cff-a3c9-e4be570cc500,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,SpecifyOther,string,Oral Motor – Function,400
-62e0fec3-d814-4386-8bc8-ef5d44abb394,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTimeTrial1and2,phonetic,Oral Motor – Function,401
-b081da57-cefc-44fe-be1f-e2f98e39a576,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTimeTrial3,phonetic,Oral Motor – Function,402
-e050ef8a-12a2-4a7e-a9be-40a77b94c8eb,function,LarynxRespiration,PitchVariabilityAndControlTrial1and2,phonetic,Oral Motor – Function,403
-8c2d2bfe-5a10-4831-83c3-3fb3ce2ef81f,function,LarynxRespiration,VolumeLoudnessControlTrial1and2,phonetic,Oral Motor – Function,404
-e1c01306-cb28-4821-a694-7d19c1fcf920,function,AlternatingSequencesAndNovelWords,MonosyllabicTrial1and2,phonetic,Oral Motor – Function,405
-1a234ba7-a4ba-4931-b63d-36cf55f802a8,function,AlternatingSequencesAndNovelWords,MonosyllabicTrial3,phonetic,Oral Motor – Function,406
-b5482324-c9c0-445c-a922-89eafa3bbda3,function,AlternatingSequencesAndNovelWords,OralNasalAlternationTrial1and2,phonetic,Oral Motor – Function,407
-ee67481c-1feb-45f3-afad-88ed2494de97,function,AlternatingSequencesAndNovelWords,OralNasalAlternationTrial3,phonetic,Oral Motor – Function,408
-a540f04f-3551-450c-95a3-9331f2d80b6e,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternationTrial1and2,phonetic,Oral Motor – Function,409
-ddad7f00-6d2c-4356-80e2-d41632c94003,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternationTrial3,phonetic,Oral Motor – Function,410
+95c2423d-4f48-4004-a1ed-761f3043605d,Stimulability Score,,not_stimulable_sounds,array,Sub Test Calculated Results,310
+7f80888b-015f-49b2-8d7c-54be3f803b68,structure,Lips,TypicalOrAtypical,string,Oral Motor Examination,311
+6fe3ec41-b491-4b73-aeee-e1a8dab95093,structure,Lips,SpecifyAtypical,string,Oral Motor Examination,312
+15d052db-518a-45fe-a719-862bc989c76f,structure,Lips,SpecifyAtypicalOther,string,Oral Motor Examination,313
+093ce9e4-7d4a-4f7c-86d5-1164e8f17eac,structure,MandibleAndMaxilla,TypicalOrAtypical,string,Oral Motor Examination,314
+0bf5d625-d486-4b3f-a2a9-0d144732c7a8,structure,MandibleAndMaxilla,SpecifyAtypical,string,Oral Motor Examination,315
+aa0f921e-13c2-48c5-819c-fdf8053bb992,structure,MandibleAndMaxilla,SpecifyOther,string,Oral Motor Examination,316
+f9e602e9-b559-4bbe-ad19-7051011fb65a,structure,MandibleAndMaxilla,SpecifyTeethNotInAlignment,string,Oral Motor Examination,317
+59f20b7f-8611-42a8-9a26-c5d9102b2d76,structure,Teeth,TypicalOrAtypical,string,Oral Motor Examination,318
+95bc19ef-f6b3-4441-bd9d-c38dc9b454d7,structure,Teeth,SpecifyAtypical,string,Oral Motor Examination,319
+7fd86c42-ce47-4fef-b160-2630367cc447,structure,TeethSpecifyOther,SpecifyOther,string,Oral Motor Examination,320
+a811a289-d56f-44d9-a6d5-ecc4b6de7172,structure,TongueSizeTypicalOrAtypical,TypicalOrAtypical,string,Oral Motor Examination,321
+dff3d56e-8100-4f83-9e90-951002a7eb9d,structure,TongueSizeSpecifyAtypical,SizeSpecifyAtypicalAppearance,string,Oral Motor Examination,322
+209d26d6-d303-44b9-ae73-88388db99d41,structure,TongueSizeSpecifyOther,SizeSpecifyOther,string,Oral Motor Examination,323
+81c8d22e-81c0-4005-81fe-a0984d4bad0c,structure,TongueAppearance,TypicalOrAtypical,string,Oral Motor Examination,324
+5cbfb642-0bb6-4c9e-b49e-188083c7363b,structure,TongueAppearance,SpecifyAtypical,string,Oral Motor Examination,325
+e9fe88f3-0862-42c6-a9eb-de01e7b07d7b,structure,TongueAppearance,SpecifyOther,string,Oral Motor Examination,326
+f6f942f7-0dc8-4c8c-8a70-3a756c6ef1c0,structure,VelopharynxAndPalateAppearance,TypicalOrAtypical,string,Oral Motor Examination,327
+ee0c87c8-2ffc-4cc3-96e3-6fca35104813,structure,VelopharynxAndPalateAppearance,SpecifyAtypical,string,Oral Motor Examination,328
+e11cd63e-9562-449e-ae3d-5ed55945ac6a,structure,VelopharynxAndPalateAppearance,SpecifyOther,string,Oral Motor Examination,329
+34c64414-a3d2-47a3-a323-0986e199249c,function,LipsMandibleAndMaxilla - Protrusion,TypicalOrAtypical,string,Oral Motor Examination,330
+09f91bca-720b-4eaf-87d4-c34d5f517a0e,function,LipsMandibleAndMaxilla - Protrusion,SpecifyAtypical,string,Oral Motor Examination,331
+de8106e4-cc08-4570-aa37-3344ff5a8fda,function,LipsMandibleAndMaxilla - Protrusion,SpecifyOther,string,Oral Motor Examination,332
+903a1923-141b-4c9b-8e62-eddf71d32011,function,LipsMandibleAndMaxilla - Retraction,TypicalOrAtypical,string,Oral Motor Examination,333
+ff7e4a76-a0e1-49d6-bc00-8dff56ccb050,function,LipsMandibleAndMaxilla - Retraction,SpecifyAtypical,string,Oral Motor Examination,334
+07e02ac4-0fc0-4fd6-b458-989a38c95d3c,function,LipsMandibleAndMaxilla - Retraction,SpecifyOther,string,Oral Motor Examination,335
+3f08d7c5-a2b0-4f85-a06c-1537ff233480,function,LipsMandibleAndMaxilla - Alternate,TypicalOrAtypical,string,Oral Motor Examination,336
+c92588e7-16e2-4821-a394-b6cd1fc02e30,function,LipsMandibleAndMaxilla - Alternate,SpecifyAtypical,string,Oral Motor Examination,337
+bf069cad-5707-4c8d-a44f-6cdbf3cbddf5,function,LipsMandibleAndMaxilla - Alternate,SpecifyOther,string,Oral Motor Examination,338
+ee2713c4-a0c7-4083-8347-ceede2ac5acf,function,LipsMandibleAndMaxilla- BiteLowerLip,TypicalOrAtypical,string,Oral Motor Examination,339
+8d8131b4-433e-4502-ba49-fe456650719f,function,LipsMandibleAndMaxilla- BiteLowerLip,SpecifyAtypical,string,Oral Motor Examination,340
+4e8797a0-6dfd-4e61-a83d-83b930404b32,function,LipsMandibleAndMaxilla- BiteLowerLip,SpecifyOther,string,Oral Motor Examination,341
+6057a3cf-64b2-4266-9892-aaf116cf0c5a,function,LipsMandibleAndMaxilla- OpenCloseLips,TypicalOrAtypical,string,Oral Motor Examination,342
+62c116c2-ef7b-41fd-b016-0bd3c57ac6a5,function,LipsMandibleAndMaxilla- OpenCloseLips,SpecifyAtypical,string,Oral Motor Examination,343
+10c1a92d-e936-4c70-b3e2-fe0af6bcaf13,function,LipsMandibleAndMaxilla- OpenCloseLips,SpecifyOther,string,Oral Motor Examination,344
+aabe490c-c4fa-4f69-9279-345337e6b7da,function,LipsMandibleAndMaxilla- Sequencing,TypicalOrAtypical,string,Oral Motor Examination,345
+7a5cd2ac-9e38-4630-9ca2-a20db6888ba8,function,LipsMandibleAndMaxilla- Sequencing,SpecifyAtypical,string,Oral Motor Examination,346
+ded51039-f235-4371-805b-e7dcc10b4008,function,LipsMandibleAndMaxilla- Sequencing,SpecifyOther,string,Oral Motor Examination,347
+34c0b024-1155-4320-b729-530f9415c4ec,function,Tongue- Protrusion,TypicalOrAtypical,string,Oral Motor Examination,348
+86e5099e-4492-42ce-82b9-bfa42d4e21d0,function,Tongue- Protrusion,SpecifyAtypical,string,Oral Motor Examination,349
+8092d786-ad9b-4036-8496-484d422f93ef,function,Tongue- Protrusion,SpecifyOther,string,Oral Motor Examination,350
+cc4ebdd9-739e-4ccf-adc2-0eb7e6f8b2f6,function,Tongue- Sequencing,TypicalOrAtypical,string,Oral Motor Examination,351
+14816635-b51b-4eba-986c-acccc4e276e3,function,Tongue- Sequencing,SpecifyAtypical,string,Oral Motor Examination,352
+14e53983-ffa9-49f9-a38e-48647998aaf6,function,Tongue- Sequencing,SpecifyOther,string,Oral Motor Examination,353
+2a329c1a-71d1-44b2-9c3d-1cbde6852157,function,Tongue- Elevation,TypicalOrAtypical,string,Oral Motor Examination,354
+42d89df6-e34f-4d75-8f76-570a9a2100c0,function,Tongue- Elevation,SpecifyAtypical,string,Oral Motor Examination,355
+45462430-2c9a-48f0-a73f-1413a8d41e2f,function,Tongue- Elevation,SpecifyOther,string,Oral Motor Examination,356
+e505d798-8c96-4acb-805d-fd74daed1e49,function,Tongue- Interdental,TypicalOrAtypical,string,Oral Motor Examination,357
+286f349f-50bd-4b3a-9068-8e4972a20212,function,Tongue- Interdental,SpecifyAtypical,string,Oral Motor Examination,358
+f1299ad8-b140-4898-9ddc-dc27694ba5b0,function,Tongue- Interdental,SpecifyOther,string,Oral Motor Examination,359
+3ef97670-9943-4fa0-8635-df2a47374ff8,function,VelopharynxAndPalate,TypicalOrAtypical,string,Oral Motor Examination,360
+50cab095-1127-40fb-8d26-c6c22371024c,function,VelopharynxAndPalate,SpecifyAtypical,string,Oral Motor Examination,361
+df56821c-6ebd-4eab-810e-20fcefd50a5b,function,VelopharynxAndPalate,SpecifyOther,string,Oral Motor Examination,362
+2bd69cc4-a36f-42ae-b750-7b736c1cec42,function,LarynxRespirationMaximumPhonationTimeTrial1and2,MaximumPhonationTime,string,Oral Motor Examination,363
+83011292-671a-405c-b086-2c2561dc379e,function,LarynxRespirationMaximumPhonationTimeTrial3,MaximumPhonationTime,string,Oral Motor Examination,364
+5bcea8d9-240b-49c6-a453-fdc7b7bd46d9,function,LarynxRespiration- PitchVariabilityAndControlTrial1and2,TypicalOrAtypical,string,Oral Motor Examination,365
+9c96190d-848c-4f57-b0f8-763b6a44555a,function,LarynxRespiration- PitchVariabilityAndControlTrial1and2,SpecifyAtypical,string,Oral Motor Examination,366
+1346c6aa-6d84-4384-8e9d-1334f029f133,function,LarynxRespiration- PitchVariabilityAndControlTrial1and2,SpecifyOther,string,Oral Motor Examination,367
+16cf029b-9417-48e5-ba54-6427e2f7fcbd,function,LarynxRespiration- PitchVariabilityAndControlTrial3,TypicalOrAtypical,string,Oral Motor Examination,368
+83bb25c0-e8c1-4fbc-af66-42e4e1254cdb,function,LarynxRespiration- PitchVariabilityAndControlTrial3,SpecifyAtypical,string,Oral Motor Examination,369
+bf17593f-2b08-41e2-9417-d8940862ccab,function,LarynxRespiration- PitchVariabilityAndControlTrial3,SpecifyOther,string,Oral Motor Examination,370
+5185f681-5211-4f13-93a0-34c7e5578861,function,LarynxRespiration- VolumeLoudnessControlTrial1and2,TypicalOrAtypical,string,Oral Motor Examination,371
+1ce3b4f6-e572-439c-83a0-18c5235a31fa,function,LarynxRespiration- VolumeLoudnessControlTrial1and2,SpecifyAtypical,string,Oral Motor Examination,372
+c343bce5-2978-45e7-943e-0a7c727fac22,function,LarynxRespiration- VolumeLoudnessControlTrial1and2,SpecifyOther,string,Oral Motor Examination,373
+8476d436-e1cc-4643-920c-23456aff105e,function,LarynxRespiration- VolumeLoudnessControlTrial3,TypicalOrAtypical,string,Oral Motor Examination,374
+cfa9f564-61db-4fa1-b23c-47ca94aba4e6,function,LarynxRespiration- VolumeLoudnessControlTrial3,SpecifyAtypical,string,Oral Motor Examination,375
+e2443b67-94b3-4f7d-a765-24f0002d8e5f,function,LarynxRespiration- VolumeLoudnessControlTrial3,SpecifyOther,string,Oral Motor Examination,376
+5fe791e4-d90c-40a9-a6ae-d03dd427776c,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,Number of repetition,string,Oral Motor Examination,377
+c6c0a8c6-7150-4894-81ca-41c84ce9dbbd,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,TypicalOrAtypical,string,Oral Motor Examination,378
+629e167c-e0d9-4509-a5e5-a2b1b70f2389,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,SpecifyAtypical,string,Oral Motor Examination,379
+53dbaa40-8af8-4446-bbb0-4677e2266cca,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial1and2,SpecifyOther,string,Oral Motor Examination,380
+3052ba2d-a3ec-4301-9e7d-e573263b9346,function,AlternatingSequencesAndNovelWords- MonosyllabicTria3,Number of repetition,string,Oral Motor Examination,381
+933e7803-7433-4b09-ba2a-048bdc83d367,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial3,TypicalOrAtypical,string,Oral Motor Examination,382
+43151382-92f8-4079-bfb7-b350efc3ca67,function,AlternatingSequencesAndNovelWords- MonosyllabicTrial3,SpecifyAtypical,string,Oral Motor Examination,383
+dd950356-8fc9-4545-a7ce-0494e333b053,function,AlternatingSequencesAndNovelWords- MonosyllabicTria3,SpecifyOther,string,Oral Motor Examination,384
+6c2d8c99-3790-45f2-a8db-fd431f65fd71,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,Number of repetition,string,Oral Motor Examination,385
+e2b65794-69b7-4702-b342-0d062ad3528b,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,TypicalOrAtypical,string,Oral Motor Examination,386
+e8cf2c6a-f95f-423d-b687-4f7c3d51b4ef,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,SpecifyAtypical,string,Oral Motor Examination,387
+cb045198-d57d-4a8f-ae90-653935d03831,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial1and2,SpecifyOther,string,Oral Motor Examination,388
+4b2a1f49-b403-4fb6-80aa-ade8362b6fce,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,Number of repetition,string,Oral Motor Examination,389
+bb5238e4-b859-4e0e-a185-ddc8d5e6ca27,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,TypicalOrAtypical,string,Oral Motor Examination,390
+6a77dd87-99ca-4303-84d1-0b33c0524042,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,SpecifyAtypical,string,Oral Motor Examination,391
+fac387bf-45cf-4189-bcd7-f5e2cb0ceaac,function,AlternatingSequencesAndNovelWords- OralNasalAlternationTrial3,SpecifyOther,string,Oral Motor Examination,392
+53bafe24-737b-47b0-809c-1106d22b4e52,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,Number of repetition,string,Oral Motor Examination,393
+a94c4131-b664-42a7-a28c-719a5dd4b878,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,TypicalOrAtypical,string,Oral Motor Examination,394
+7bbf5bd3-443e-4313-baf3-cad4d61a5c3f,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,SpecifyAtypical,string,Oral Motor Examination,395
+b5cfeb41-7e76-4417-ae44-793b202abd90,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial1and2,SpecifyOther,string,Oral Motor Examination,396
+4c3514ad-5ab9-4528-95a7-6152c4c8749d,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,Number of repetition,string,Oral Motor Examination,397
+32591d37-aeff-4bb3-97e6-1150f59a34ed,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,TypicalOrAtypical,string,Oral Motor Examination,398
+e90842ca-bef5-4b2e-8295-93a007ee831f,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,SpecifyAtypical,string,Oral Motor Examination,399
+ab692a51-4768-4cff-a3c9-e4be570cc500,function,AlternatingSequencesAndNovelWords- TriSyllabicAlternationTrial3,SpecifyOther,string,Oral Motor Examination,400
+62e0fec3-d814-4386-8bc8-ef5d44abb394,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTimeTrial1and2,phonetic,Oral Motor Examination,401
+b081da57-cefc-44fe-be1f-e2f98e39a576,function,LarynxRespirationMaximumPhonationTime,MaximumPhonationTimeTrial3,phonetic,Oral Motor Examination,402
+e050ef8a-12a2-4a7e-a9be-40a77b94c8eb,function,LarynxRespiration,PitchVariabilityAndControlTrial1and2,phonetic,Oral Motor Examination,403
+8c2d2bfe-5a10-4831-83c3-3fb3ce2ef81f,function,LarynxRespiration,VolumeLoudnessControlTrial1and2,phonetic,Oral Motor Examination,404
+e1c01306-cb28-4821-a694-7d19c1fcf920,function,AlternatingSequencesAndNovelWords,MonosyllabicTrial1and2,phonetic,Oral Motor Examination,405
+1a234ba7-a4ba-4931-b63d-36cf55f802a8,function,AlternatingSequencesAndNovelWords,MonosyllabicTrial3,phonetic,Oral Motor Examination,406
+b5482324-c9c0-445c-a922-89eafa3bbda3,function,AlternatingSequencesAndNovelWords,OralNasalAlternationTrial1and2,phonetic,Oral Motor Examination,407
+ee67481c-1feb-45f3-afad-88ed2494de97,function,AlternatingSequencesAndNovelWords,OralNasalAlternationTrial3,phonetic,Oral Motor Examination,408
+a540f04f-3551-450c-95a3-9331f2d80b6e,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternationTrial1and2,phonetic,Oral Motor Examination,409
+ddad7f00-6d2c-4356-80e2-d41632c94003,function,AlternatingSequencesAndNovelWords,TriSyllabicAlternationTrial3,phonetic,Oral Motor Examination,410
 c43757b9-f781-452c-9909-a531acad8d85,Rainbow,,Rainbow,string,Apraxia & Dysarthria,411
 4dee2f4f-4cf3-4feb-99f9-08830c04e29a,Monkey,,Monkey,string,Apraxia & Dysarthria,412
 e1b4b0c9-6e71-45dc-a66b-ae327f7ef255,Giraffe,,Giraffe,string,Apraxia & Dysarthria,413
