@@ -1,9 +1,9 @@
-SubTestId,Description
-b3bb70a9-a66b-495f-956a-9f9bc0679449,Case History
-f237f340-1655-405c-9372-450be6713b5f,Phonology
-2e30a64b-f761-4f43-985f-4c399c0762e7,Sub Test Calculated Results
-3f3beeed-d402-444a-89f2-7a29eb2985aa,Inconsistency
-b9edd1b0-793b-4a1e-933d-aef3106ed914,Imitation
-a01a61a3-08e5-4e5d-a1ff-44739d9921fd,Stimulability
-820064a2-38a3-4c11-a58b-574021e017b3,Oral Motor Examination
-c573bb03-ffad-49ef-8cc7-c20e9e6c5d57,Apraxia & Dysarthria
+SubTestId,Description,DisplayOrder
+b3bb70a9-a66b-495f-956a-9f9bc0679449,Case History,1
+f237f340-1655-405c-9372-450be6713b5f,Phonology,2
+2e30a64b-f761-4f43-985f-4c399c0762e7,Sub Test Calculated Results,8
+3f3beeed-d402-444a-89f2-7a29eb2985aa,Inconsistency,3
+b9edd1b0-793b-4a1e-933d-aef3106ed914,Imitation,4
+a01a61a3-08e5-4e5d-a1ff-44739d9921fd,Stimulability,5
+820064a2-38a3-4c11-a58b-574021e017b3,Oral Motor Examination,6
+c573bb03-ffad-49ef-8cc7-c20e9e6c5d57,Apraxia & Dysarthria,7
